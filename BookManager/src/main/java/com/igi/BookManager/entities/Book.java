@@ -12,6 +12,14 @@ public class Book {
     private String name;
     private String description;
 
+    public Book(String name, String description) {
+        this.name = name;
+        this.description = description;
+    }
+
+    public Book(){
+
+    }
 
     public Long getId() {
         return id;
