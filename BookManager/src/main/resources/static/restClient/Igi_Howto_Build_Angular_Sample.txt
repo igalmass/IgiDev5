@@ -1,0 +1,23 @@
+howto build client:
+
+enter:
+d:\IgiDev5\BookManager\src\main\resources>
+and type:
+ng new restClient
+
+code .
+
+ng serve --open
+
+
+PS D:\IgiDev5\BookManager\src\main\resources\static\restClient> ng g class book
+
+PS D:\IgiDev5\BookManager\src\main\resources\static\restClient> ng g component components/listbook
+
+PS D:\IgiDev5\BookManager\src\main\resources\static\restClient> ng g component components/bookForm
+
+PS D:\IgiDev5\BookManager\src\main\resources\static\restClient> ng g service shared_service/book 
+Creates => creates restClient/shared-service/book.service.ts
+(and we need to add it manually to app.module.ts as a provider !!!) (import bookService from ....):
+1. import { BookService} from './shared-service/book.service'
+2. providers: [BookService],
