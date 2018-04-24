@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BookManager/BookManager.iml" filepath="$PROJECT_DIR$/BookManager/BookManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IgiDev5.iml" filepath="$PROJECT_DIR$/.idea/IgiDev5.iml" />
       <module fileurl="file://$PROJECT_DIR$/IgiCrudTest/demo.iml" filepath="$PROJECT_DIR$/IgiCrudTest/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/igitests111/igitests111.iml" filepath="$PROJECT_DIR$/igitests111/igitests111.iml" />
     </modules>
   </component>
 </project>
