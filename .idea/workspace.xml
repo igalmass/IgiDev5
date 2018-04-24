@@ -3,19 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/BookManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/BookManagerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/controllers/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/controllers/BookController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/.angular-cli.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/.angular-cli.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/book.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/book.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/listbook/listbook.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/listbook/listbook.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/listbook/listbook.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/listbook/listbook.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/shared-service/book.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/shared-service/book.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/book_db.mv.db" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/BookManager/target/" />
     <ignored path="$PROJECT_DIR$/bookmgr/target/" />
@@ -55,10 +42,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BookController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BookController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/controllers/BookController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-119">
+            <state relative-caret-position="187">
               <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -89,6 +76,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
@@ -353,7 +345,7 @@
       <workItem from="1524408941998" duration="309000" />
       <workItem from="1524409265083" duration="3873000" />
       <workItem from="1524505944138" duration="685000" />
-      <workItem from="1524555479602" duration="2995000" />
+      <workItem from="1524555479602" duration="3476000" />
     </task>
     <task id="LOCAL-00001" summary="First commit in 54">
       <created>1524408971837</created>
@@ -383,11 +375,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524506031482</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Working 555">
+      <created>1524562948731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524562948731</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7862000" />
+    <option name="totallyTimeSpent" value="8343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,30 +406,30 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.45424837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45424837" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Messages" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="TypeScript" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -448,7 +447,8 @@
     <MESSAGE value="another good commit" />
     <MESSAGE value="another good commit 2" />
     <MESSAGE value="not complete - after adding angular 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="not complete - after adding angular 4" />
+    <MESSAGE value="Working 555" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working 555" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -601,10 +601,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/restClient/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/repositories/BookRepository.java">
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/entities/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/controllers/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -618,25 +628,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/entities/Book.java">
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/repositories/BookRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="85">
+          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/controllers/BookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
