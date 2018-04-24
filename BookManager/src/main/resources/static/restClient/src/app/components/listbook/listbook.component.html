@@ -1,3 +1,24 @@
-<p>
-  listbook works!
-</p>
+<div class="container">
+  <table class="table trable-stripe">
+    <thead>
+      <th>Id</th>
+      <th>Book Name</th>
+      <th>Book Description</th>
+      <th>Operation</th>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let book of books">
+        <td>{{book.id}}</td>
+        <td>{{book.name}}</td>
+        <td>{{book.description}}</td>
+        <td>
+          <button class="btn btn-danger" (click)="deleteBook(book)">Delete</button>
+          <button class="btn btn-primary" (click)="updateBook(book)">Edit</button>
+        </td>
+      </tr>
+    </tbody>
+
+  </table>
+  <button class="btn btn-primary" (click)="newBook()">New Book  </button>
+</div>

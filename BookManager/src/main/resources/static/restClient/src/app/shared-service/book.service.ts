@@ -9,12 +9,14 @@ import {Book} from '../book';
 @Injectable()
 export class BookService {
   private baseUrl:string = "http://localhost:8080/api";
-  private headers = new this.headers({'Content-Type':'application/json'});
+  private headers = new Headers({'Content-Type':'application/json'});
   private options = new RequestOptions({headers: this.headers});
+  private manipulatedBook = new Book();
 
   constructor(private _http: Http) { }
 
   getBooks(){
+    console.log("getting books ...");
     return this._http.
            get(this.baseUrl + "/books", this.options).
            map((response:Response) => response.json()).
@@ -50,6 +52,14 @@ export class BookService {
 
   errorHandler(error: Response){
     return Observable.throw(error || "SERVER ERROR HAHAHA")  ;
+  }
+
+  setManipulatedBook(book : Book){
+    this.manipulatedBook = book;
+  }
+
+  getManipulatedBook(){
+    return this.manipulatedBook;
   }
 
 }

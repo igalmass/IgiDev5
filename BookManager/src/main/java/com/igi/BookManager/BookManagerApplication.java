@@ -21,5 +21,6 @@ public class BookManagerApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		bookRepository.save(new Book("Caribbeans", "Good carib"));
 		bookRepository.save(new Book("Centenial", "Good cent"));
+		bookRepository.save(new Book("Hawaii", "Achla book"));
 	}
 }
