@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/igitests111/src/main/java/BinaryTrees/MaxDiffHeightCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/BookManager/target/" />
@@ -33,8 +29,8 @@
       <file leaf-file-name="MaxDiffHeightCounter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/BinaryTrees/MaxDiffHeightCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="139" selection-start-line="16" selection-start-column="139" selection-end-line="16" selection-end-column="139" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,11 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxDiffHeightCounterTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FibCalculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/FibCalculation/FibCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxDiffHeightCounterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/igitests111/src/test/java/BinaryTrees/MaxDiffHeightCounterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+            <state relative-caret-position="102">
+              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
               <folding>
                 <element signature="e#399#400#0" expanded="true" />
                 <element signature="e#442#443#0" expanded="true" />
@@ -107,15 +112,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DoubleEndedLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/LinkedList/FromInet/SingleLinkList/DoubleEndedLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -611,7 +607,7 @@
       <workItem from="1524555479602" duration="4705000" />
       <workItem from="1524564862569" duration="1301000" />
       <workItem from="1524568289798" duration="2217000" />
-      <workItem from="1524570600577" duration="17954000" />
+      <workItem from="1524570600577" duration="18210000" />
     </task>
     <task id="LOCAL-00001" summary="First commit in 54">
       <created>1524408971837</created>
@@ -690,31 +686,17 @@
       <option name="project" value="LOCAL" />
       <updated>1524592129750</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add algoths test solution">
+      <created>1524594695379</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1524594695379</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 23m 52s.xml">
-      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 24m 24s.xml">
-      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 24m 28s.xml">
-      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 24m 54s.xml">
-      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 25m 01s.xml">
-      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 25m 15s.xml">
-      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 25m 40s.xml">
-      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 26m 13s.xml">
       <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
     </history-entry>
@@ -724,9 +706,30 @@
     <history-entry file="MaxDiffHeightCounterTest - 2018.04.24 at 21h 27m 12s.xml">
       <configuration name="MaxDiffHeightCounterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 27m 26s.xml">
+      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 27m 30s.xml">
+      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 28m 27s.xml">
+      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 28m 31s.xml">
+      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 28m 55s.xml">
+      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 29m 00s.xml">
+      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxDiffHeightCounterTest_getMaxHeightOf_2_With_2_1_Correctly - 2018.04.24 at 21h 29m 04s.xml">
+      <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31044000" />
+    <option name="totallyTimeSpent" value="31300000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -739,7 +742,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -760,8 +762,8 @@
       <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.32897604" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run Dashboard" order="9" weight="0.32897604" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
@@ -793,7 +795,8 @@
     <MESSAGE value="added Udemy ang tut" />
     <MESSAGE value="after databinding 1" />
     <MESSAGE value="after basic phase :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="after basic phase :)" />
+    <MESSAGE value="add algoths test solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="add algoths test solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -834,13 +837,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/my-first-app/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/my-first-app/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1144,24 +1140,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/igitests111/src/test/java/BinaryTrees/MaxDiffHeightCounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding>
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/BinaryTrees/MaxDiffHeightCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="139" selection-start-line="16" selection-start-column="139" selection-end-line="16" selection-end-column="139" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/igitests111/src/test/java/BinaryTrees/MaxDiffHeightCounterTest.java">
+    <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/FibCalculation/FibCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
-          <folding>
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
