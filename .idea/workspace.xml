@@ -2,6 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/header/header.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/header/header.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/BookManager/target/" />
@@ -17,101 +68,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/BinaryTrees/BinaryTree.java">
+      <file leaf-file-name="shopping-list.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxDiffHeightCounter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/BinaryTrees/MaxDiffHeightCounter.java">
+      <file leaf-file-name="shopping-list.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopping-edit.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recipes.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FibCalculator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/FibCalculation/FibCalculator.java">
+      <file leaf-file-name="recipe-list.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxDiffHeightCounterTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igitests111/src/test/java/BinaryTrees/MaxDiffHeightCounterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
-              <folding>
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/entities/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="5" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/repositories/UserRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-end-line="7" />
-              <folding>
-                <element signature="e#0#226#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IgiCrudTestApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/IgiCrudTestApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" lean-forward="true" selection-end-line="27" />
-              <folding>
-                <element signature="e#0#968#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/controllers/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="18" column="17" lean-forward="true" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igitests111/pom.xml">
+      <file leaf-file-name="recipes.model.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.model.ts">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/BinaryTrees/TreeNode.java">
+      <file leaf-file-name="recipes.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="header.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/header/header.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/header/header.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -171,6 +196,18 @@
         <option value="$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/IgiCrudTestApplication.java" />
         <option value="$PROJECT_DIR$/igitests111/src/main/java/BinaryTrees/MaxDiffHeightCounter.java" />
         <option value="$PROJECT_DIR$/igitests111/src/test/java/BinaryTrees/MaxDiffHeightCounterTest.java" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/.angular-cli.json" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-details.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.ts" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/header/header.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.ts" />
       </list>
     </option>
   </component>
@@ -194,6 +231,7 @@
     <handled-path value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-2-start/node_modules" />
     <handled-path value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/node_modules" />
     <handled-path value="$PROJECT_DIR$/UdemyAngTut/my-first-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -203,9 +241,10 @@
       <path value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-2-start/package.json" />
       <path value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/package.json" />
       <path value="$PROJECT_DIR$/UdemyAngTut/my-first-app/package.json" />
+      <path value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -218,9 +257,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,137 +270,104 @@
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTrees" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe-detail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe-list" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe-item" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="FibCalculation" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-edit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SerializeDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SerializeDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="WithNonSerializeable.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTrees" type="462c0819:PsiDirectoryNode" />
+              <item name="environments" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -385,7 +391,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-2-start/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -607,7 +613,10 @@
       <workItem from="1524555479602" duration="4705000" />
       <workItem from="1524564862569" duration="1301000" />
       <workItem from="1524568289798" duration="2217000" />
-      <workItem from="1524570600577" duration="18210000" />
+      <workItem from="1524570600577" duration="19880000" />
+      <workItem from="1524636992536" duration="262000" />
+      <workItem from="1524637416241" duration="2647000" />
+      <workItem from="1524640095672" duration="1590000" />
     </task>
     <task id="LOCAL-00001" summary="First commit in 54">
       <created>1524408971837</created>
@@ -693,7 +702,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524594695379</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add algoths test solution">
+      <created>1524594709705</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1524594709705</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -729,7 +745,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31300000" />
+    <option name="totallyTimeSpent" value="37469000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -741,7 +757,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -756,7 +772,6 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45424837" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.32897604" />
@@ -766,13 +781,14 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32897604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -837,76 +853,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/my-first-app/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basic-assignemt1/src/app/success-alert/success-alert.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basic-assignemt1/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basic-assignemt1/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basic-assignemt1/src/app/success-alert/success-alert.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basic-assignemt1/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/my-first-app/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-2-start/src/app/user/user.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-2-start/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-2-start/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-2-start/src/app/user/user.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-2-start/src/app/user/user.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -935,42 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyDummyProj2/src/main/java/MyTest1123.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/my-first-app/src/app/servers/servers.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/protractor.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/how-to-use.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/my-first-app/src/app/servers/servers.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -982,17 +892,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding>
-            <marker date="1524589289104" expanded="true" signature="372:408" ph="..." />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/src/app/display-text/display-text.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/src/app/display-text/display-text.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/my-first-app/src/app/server/server.component.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1008,22 +909,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/tslint.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1038,9 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1064,9 +950,6 @@
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/SerializeDemo/WithNonSerializeable.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/sorting/BinarySearcher.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1096,13 +979,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/igitests111/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/controllers/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="17" lean-forward="true" selection-end-line="47" />
+        <state relative-caret-position="306">
+          <caret line="18" column="17" selection-end-line="47" />
         </state>
       </provider>
     </entry>
@@ -1115,21 +995,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/repositories/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#226#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/IgiCrudTestApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#968#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -1137,6 +1011,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/BinaryTrees/MaxDiffHeightCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/FibCalculation/FibCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1151,22 +1042,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/BinaryTrees/MaxDiffHeightCounter.java">
+    <entry file="file://$PROJECT_DIR$/igitests111/src/test/java/FibCalculation/FibCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="68">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/FibCalculation/FibCalculator.java">
+    <entry file="file://$PROJECT_DIR$/igitests111/src/test/java/LinkedList/FromInet/SingleLinkList/DoubleEndedLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/polyfills.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="273" column="12" selection-start-line="273" selection-start-column="12" selection-end-line="273" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-details/recipe-details.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/header/header.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.model.ts">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
