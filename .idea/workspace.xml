@@ -2,15 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/basic-highlight/basic-highlight-directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/better-highlight/better-highlight.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyAngTut/directives-start/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/BookManager/target/" />
     <ignored path="$PROJECT_DIR$/bookmgr/target/" />
@@ -25,110 +54,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/header/header.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.component.html">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="60" column="30" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unless.directive.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/custom-structural-directives/unless.directive.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template_ref.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/node_modules/@angular/core/src/linker/template_ref.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic-highlight-directive.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/basic-highlight/basic-highlight-directive.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipe-list.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.html">
+      <file leaf-file-name="better-highlight.directive.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/better-highlight/better-highlight.directive.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recipe-list.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="323">
+              <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#0#101#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipes.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.html">
+      <file leaf-file-name="api.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/node_modules/@angular/core/src/render/api.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="1268">
+              <caret line="120" column="30" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipe-detail.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.ts">
+      <file leaf-file-name="app.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="85">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#0#58#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipe-detail.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.html">
+      <file leaf-file-name="app.component.spec.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state>
               <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#0#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipes.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.ts">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recipe-item.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recipe-item.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -157,14 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/UdemyAngTut/my-first-app/src/app/servers/servers.component.html" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/my-first-app/src/app/servers/servers.component.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/src/app/app.component.css" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/controllers/UserController.java" />
-        <option value="$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/entities/User.java" />
         <option value="$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/repositories/UserRepository.java" />
         <option value="$PROJECT_DIR$/igitests111/src/main/java/crud_demo/demo/IgiCrudTestApplication.java" />
         <option value="$PROJECT_DIR$/igitests111/src/main/java/BinaryTrees/MaxDiffHeightCounter.java" />
@@ -175,9 +185,6 @@
         <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.model.ts" />
         <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe.model.ts" />
         <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shared/ingredient.model.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.html" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
         <option value="$PROJECT_DIR$/UdemyAngTut/debugging/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/UdemyAngTut/cmp-databinding-start/src/app/server-element/server-element.component.css" />
         <option value="$PROJECT_DIR$/UdemyAngTut/cmp-databinding-start/src/app/cockpit/cockpit.component.html" />
@@ -208,6 +215,17 @@
         <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.ts" />
         <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.html" />
         <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.ts" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.css" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/basic-highlight/basic-highlight-directive.ts" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/better-highlight/better-highlight.directive.ts" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/unless.directive.ts" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.ts" />
       </list>
     </option>
   </component>
@@ -232,6 +250,7 @@
     <handled-path value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/node_modules" />
     <handled-path value="$PROJECT_DIR$/UdemyAngTut/cmp-databinding-assignment-start/node_modules" />
     <handled-path value="$PROJECT_DIR$/UdemyAngTut/cmp-databinding-start/node_modules" />
+    <handled-path value="$PROJECT_DIR$/UdemyAngTut/directives-start/node_modules" />
     <handled-path value="$PROJECT_DIR$/UdemyAngTut/my-first-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/node_modules" />
   </component>
@@ -244,6 +263,7 @@
       <path value="$PROJECT_DIR$/UdemyAngTut/basics-assignment-3-start/package.json" />
       <path value="$PROJECT_DIR$/UdemyAngTut/cmp-databinding-assignment-start/package.json" />
       <path value="$PROJECT_DIR$/UdemyAngTut/cmp-databinding-start/package.json" />
+      <path value="$PROJECT_DIR$/UdemyAngTut/directives-start/package.json" />
       <path value="$PROJECT_DIR$/UdemyAngTut/my-first-app/package.json" />
       <path value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/package.json" />
     </packageJsonPaths>
@@ -261,8 +281,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,20 +300,76 @@
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
               <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
               <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
               <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="linker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="render" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -300,56 +377,24 @@
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
               <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-highlight" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
               <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="recipes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="recipes" type="462c0819:PsiDirectoryNode" />
-              <item name="recipe-detail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="recipes" type="462c0819:PsiDirectoryNode" />
-              <item name="recipe-list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="recipes" type="462c0819:PsiDirectoryNode" />
-              <item name="recipe-list" type="462c0819:PsiDirectoryNode" />
-              <item name="recipe-item" type="462c0819:PsiDirectoryNode" />
+              <item name="better-highlight" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -376,6 +421,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IgiDev5\UdemyAngTut\directives-start\src\app\custom-structural-directives" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -597,7 +645,9 @@
       <workItem from="1524647766740" duration="851000" />
       <workItem from="1524649237380" duration="1723000" />
       <workItem from="1524651416530" duration="10746000" />
-      <workItem from="1524666557978" duration="5321000" />
+      <workItem from="1524666557978" duration="7610000" />
+      <workItem from="1524732895868" duration="1719000" />
+      <workItem from="1524752820885" duration="6905000" />
     </task>
     <task id="LOCAL-00001" summary="First commit in 54">
       <created>1524408971837</created>
@@ -725,7 +775,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524670387564</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="udmy - improving shopshop - 3">
+      <created>1524672026671</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1524672026671</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -761,7 +818,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62118000" />
+    <option name="totallyTimeSpent" value="73031000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -798,10 +855,9 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32897604" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19616205" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -810,6 +866,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -861,7 +918,8 @@
     <MESSAGE value="Basic udmy - local ref tutorial" />
     <MESSAGE value="udmy - databinding" />
     <MESSAGE value="udmy - improving shopshop" />
-    <option name="LAST_COMMIT_MESSAGE" value="udmy - improving shopshop" />
+    <MESSAGE value="udmy - improving shopshop - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="udmy - improving shopshop - 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -897,65 +955,16 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.module.ts</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/igitests111/src/main/java/FibCalculation/FibCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/igitests111/src/test/java/BinaryTrees/MaxDiffHeightCounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
-          <folding>
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/igitests111/src/test/java/FibCalculation/FibCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/igitests111/src/test/java/LinkedList/FromInet/SingleLinkList/DoubleEndedLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/node_modules/bootstrap/dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="273" column="12" selection-start-line="273" selection-start-column="12" selection-end-line="273" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-details/recipe-details.component.spec.ts" />
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe.model.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -970,40 +979,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/debugging/src/app/app.component.ts" />
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/cmp-databinding-start/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/cmp-databinding-start/src/app/server-element/server-element.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/cmp-databinding-start/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/cmp-databinding-start/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -1019,15 +1001,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/cmp-databinding-assignment-start/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/cmp-databinding-start/src/app/cockpit/cockpit.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1039,15 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/cmp-databinding-assignment-start/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1079,15 +1043,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/cmp-databinding-assignment-start/src/app/odd/odd.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/cmp-databinding-assignment-start/src/app/game-control/game-control.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -1106,9 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1130,9 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1196,9 +1145,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1206,9 +1152,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1216,60 +1159,168 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="136">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipes.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-detail/recipe-detail.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/better-highlight/btter-highlight.directive.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/basic-highlight/basic-highlight-directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/node_modules/@angular/core/src/render/api.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1268">
+          <caret line="120" column="30" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/better-highlight/better-highlight.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/unless.directive.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/node_modules/@angular/core/src/linker/template_ref.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/custom-structural-directives/unless.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="60" column="30" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>

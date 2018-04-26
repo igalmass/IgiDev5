@@ -1,0 +1,72 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <button
+        class="btn btn-primary"
+        (click)="onlyOdd = !onlyOdd">Only show odd numbers
+      </button>
+      <br><br>
+      <p>onlyOdd = {{ onlyOdd }}</p>
+      <ul class="list-group">
+        <div *ngIf="onlyOdd">
+
+
+          <li
+            class="list-group-item"
+            [ngClass]="{ odd: curOdd % 2 !== 0 }"
+            [ngStyle] = "{ backgroundColor: odd % 2 !== 0 ? 'yellow' : 'transparent' }"
+            *ngFor="let curOdd of oddNumbers"
+          >
+            {{ curOdd }}
+
+          </li>
+        </div>
+
+        <!--<div *ngIf="!onlyOdd">-->
+          <!--<li-->
+            <!--class="list-group-item"-->
+            <!--[ngClass] = "{odd: curEven % 2 === 0}"-->
+            <!--[ngStyle] = "{ backgroundColor: curEven % 2 === 0 ? 'yellow' : 'transparent'}"-->
+            <!--*ngFor="let curEven of evenNumbers"-->
+          <!--&gt;-->
+            <!--{{ curEven }}-->
+
+          <!--</li>-->
+        <!--</div>-->
+        <!--<ng-template [ngIf]="!onlyOdd">-->
+          <!--&lt;!&ndash;this is ng-template hahaha&ndash;&gt;-->
+          <!--<div>-->
+            <!--<li-->
+              <!--class="list-group-item"-->
+              <!--[ngClass] = "{ odd: curEvent % 2 === 0}"-->
+              <!--[ngStyle] = "{ backgroundColor: curEven % 2 === 0 ? 'yellow' : 'transparent'}"-->
+              <!--*ngFor = "let curEven of evenNumbers">-->
+              <!--{{ curEven }}-->
+            <!--</li>-->
+
+          <!--</div>-->
+
+        <!--</ng-template>-->
+
+        <div *appUnless="onlyOdd">
+          showing even !!!
+          <li
+            class="list-group-item"
+            [ngClass] = "{odd: curEven % 2 !== 0}"
+            [ngStyle] = "{backgroundColor: curEven % 2 !== 0}"
+            *ngFor="let even of evenNumbers">
+            {{ even }}
+          </li>
+        </div>
+        <div [ngSwitch]="value">
+          <p *ngSwitchCase="10">Value is 10</p>
+          <p *ngSwitchCase="100">Value is 100</p>
+          <p *ngSwitchDefault="">Value is Default</p>
+
+        </div>
+      </ul>
+      <p appBasicHighlight>Style me !!!</p>
+      <p [appBetterHighlight]="'red'" [defaultColor]="'yellow'">Style me bettter !!!</p>
+    </div>
+  </div>
+</div>
