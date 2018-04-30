@@ -2,69 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/.angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/.angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyAngTut/forms-td-start/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/BookManager/target/" />
     <ignored path="$PROJECT_DIR$/bookmgr/target/" />
@@ -79,26 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="how-to-use.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/how-to-use.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="basic-highlight-directive.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/basic-highlight/basic-highlight-directive.ts">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="unless.directive.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/custom-structural-directives/unless.directive.ts">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+            <state relative-caret-position="255">
+              <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -106,7 +31,7 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="710">
+            <state relative-caret-position="833">
               <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
             </state>
           </provider>
@@ -135,10 +60,10 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="272">
+              <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
               <folding>
-                <element signature="e#0#42#0" expanded="true" />
+                <element signature="e#0#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,7 +72,7 @@
       <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="306">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
@@ -193,6 +118,7 @@
       <find>suggest</find>
       <find>nf</find>
       <find>signupForm</find>
+      <find>Promise</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -250,8 +176,8 @@
         <option value="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.css" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.ts" />
       </list>
     </option>
   </component>
@@ -317,7 +243,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -376,8 +303,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -396,7 +322,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/UdemyAngTut/directives-start/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/UdemyAngTut/basic-assignemt1/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -636,7 +562,8 @@
       <workItem from="1524824623456" duration="1622000" />
       <workItem from="1524827609661" duration="15795000" />
       <workItem from="1524846922780" duration="3925000" />
-      <workItem from="1524985827960" duration="31248000" />
+      <workItem from="1524985827960" duration="34751000" />
+      <workItem from="1525100837624" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="First commit in 54">
       <created>1524408971837</created>
@@ -848,7 +775,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525009140243</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add forms">
+      <created>1525032585802</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1525032585802</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -884,7 +818,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126596000" />
+    <option name="totallyTimeSpent" value="130768000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -897,6 +831,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -916,14 +851,13 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32897604" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.32897604" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32897604" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32897604" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32897604" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20682302" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -932,6 +866,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -967,7 +902,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="another good commit 2" />
     <MESSAGE value="not complete - after adding angular 4" />
     <MESSAGE value="Working 555" />
     <MESSAGE value="added IgiCrud - working users sample" />
@@ -992,7 +926,8 @@
     <MESSAGE value="adding basic routes - 3" />
     <MESSAGE value="adding routing to course project" />
     <MESSAGE value="add observables" />
-    <option name="LAST_COMMIT_MESSAGE" value="add observables" />
+    <MESSAGE value="add forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="add forms" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1035,13 +970,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/UdemyAngTut/routing-start/src/app/servers/edit-server/edit-server.component.ts</url>
           <line>51</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/UdemyAngTut/routing-start/src/app/servers/edit-server/edit-server.component.ts</url>
           <line>32</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
@@ -1049,13 +982,64 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="101" selection-start-line="20" selection-start-column="101" selection-end-line="20" selection-end-column="101" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1080,16 +1064,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-start/recipe-start.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1104,10 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1122,9 +1096,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1132,9 +1103,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1149,11 +1117,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1161,9 +1124,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1171,14 +1131,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/observables-start/src/app/home/home.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/observables-start/node_modules/rxjs/src/Subject.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -1212,9 +1166,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1222,9 +1173,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1232,9 +1180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1242,9 +1187,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1273,9 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1283,11 +1222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#li#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#li#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1306,27 +1240,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/tslint.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/tsconfig.json">
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/README.md">
@@ -1338,54 +1254,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/protractor.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/package.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/how-to-use.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/basic-highlight/basic-highlight-directive.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/directives-start/src/app/custom-structural-directives/unless.directive.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
+        <state relative-caret-position="833">
           <caret line="50" column="2" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-td-start/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
@@ -1397,10 +1277,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1411,12 +1293,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/forms-reactive-start/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state relative-caret-position="272">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
