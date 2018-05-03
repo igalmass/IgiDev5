@@ -10,7 +10,7 @@ import {ActivatedRoute, Params, Router} from "@angular/router";
 })
 export class RecipeDetailComponent implements OnInit {
 
-  recipe : Recipe;
+  recipe : Recipe; // = new Recipe('', '', '', null);
   id: number;
 
   constructor(private recipeService :RecipeService, private route: ActivatedRoute, private router: Router) { console.log('from ctor'); }
@@ -29,5 +29,10 @@ export class RecipeDetailComponent implements OnInit {
 
   onEditRecipe() {
     this.router.navigate(['edit'], {relativeTo: this.route});
+  }
+
+  onDeleteRecipe() {
+    this.recipeService.deleteRecipe(this.id);
+    this.router.navigate(['/recipes']);
   }
 }
