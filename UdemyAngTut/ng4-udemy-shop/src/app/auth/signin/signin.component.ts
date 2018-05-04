@@ -13,11 +13,18 @@ export class SigninComponent implements OnInit {
   constructor(private authService : AuthService) { }
 
   ngOnInit() {
+
   }
 
   onSignin(form: NgForm) {
     const email = form.value.email;
     const password = form.value.password;
     this.authService.signinUser(email, password);
+  }
+
+  onFillDefaults(form: NgForm) {
+    form.controls['email'].setValue('test12@test.com');
+    form.controls['password'].setValue("test1234");
+
   }
 }
