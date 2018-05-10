@@ -7,11 +7,17 @@
     <tr>
       <th>Id</th>
       <td>Title</td>
+      <td>Page count</td>
+      <td>Details</td>
       <td>Authors</td>
+
+      <td>Operations</td>
     </tr>
-    <tr *ngFor="let book of getAllTheBooks()">
+    <tr *ngFor="let book of getAllTheBooks(); let i = index">
       <td>{{ book.id }}</td>
       <td>{{ book.title }}</td>
+      <td>{{ book.pageCount}}</td>
+      <td>{{ book.details}}</td>
       <td>
         <ul class="list-group">
           <li *ngFor="let author of book.authors" >
@@ -19,7 +25,13 @@
           </li>
         </ul>
       </td>
+      <td>
+        <button class="btn btn-primary" (click)="onEdit(book.id)">Edit</button>
+
+        <button class="btn btn-danger">Delete</button>
+      </td>
     </tr>
 
   </table>
+  <button class="btn btn-primary" (click)="onNewBook()">New</button>
 </div>
