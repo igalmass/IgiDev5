@@ -1,4 +1,47 @@
-<p>
-  book-form works!
-</p>
-<p>Editing item with id {{ id  }}</p>
+<!--<p>-->
+  <!--book-form works!-->
+<!--</p>-->
+<!--<p>Editing item with id {{ id  }}</p>-->
+
+<div class="container">
+  <p *ngIf="isInEditMode(); else newModePara">Editing book #{{id}}</p>
+  <p #newModePara>Adding a new book</p>
+
+  <form [formGroup]="bookForm" (ngSubmit)="onSubmit()">
+
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="form-group">
+          <label for="title">Name</label>
+          <input type="text"
+                 id="title"
+                 formControlName="title"
+                 class="form-control">
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="form-group">
+          <label for="description">Description</label>
+          <input type="text"
+                 id="description"
+                 formControlName="description"
+                 class="form-control">
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="form-group">
+          <label for="pageCount">Page Count</label>
+          <input type="text"
+                 id="pageCount"
+                 formControlName="pageCount"
+                 class="form-control">
+        </div>
+      </div>
+    </div>
+    <button type="submit" class="btn btn-primary" [disabled]="!bookForm.valid">Submit</button>
+  </form>
+</div>

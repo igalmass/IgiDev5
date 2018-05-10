@@ -1,12 +1,12 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
+import { ReactiveFormsModule } from "@angular/forms";
+import { RouterModule, Routes } from "@angular/router";
 
 import { AppComponent } from './app.component';
 
 import { BookListComponent } from './components/booklist/booklist.component';
 import { HeaderComponent } from './components/header/header.component';
-import {RouterModule, Routes} from "@angular/router";
 import { AuthorListComponent } from './components/author-list/author-list.component';
 import {LibraryService} from "./services/library.service";
 import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
@@ -36,6 +36,8 @@ const appRoutes : Routes  = [
     BrowserModule,
     RouterModule.forRoot(appRoutes,
       {enableTracing: true}), // for debug :),
+    ReactiveFormsModule
+
   ],
   providers: [LibraryService],
   bootstrap: [AppComponent]

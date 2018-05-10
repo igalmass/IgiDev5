@@ -19,6 +19,7 @@ export class LibraryService{
 
   getBookById(bookId: number) {
     const resultBook = this.allTheBooks.find(book => book.getId() === bookId);
+    debugger;
     return resultBook;
   }
 

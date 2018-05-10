@@ -31,7 +31,7 @@ export class BookFormComponent implements OnInit {
         console.log(error);
       });
     } else {
-      
+
        this._bookService.updateBook(this.book).subscribe((book) => {
          console.log(book);
          this._router.navigate(['/']);
@@ -39,9 +39,5 @@ export class BookFormComponent implements OnInit {
          console.log(error);
        });
     }
-    
   }
-
-
-
 }
