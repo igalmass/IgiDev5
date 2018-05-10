@@ -8,16 +8,16 @@
       <th>Id</th>
       <td>Title</td>
       <td>Page count</td>
-      <td>Details</td>
+      <td>Description</td>
       <td>Authors</td>
 
       <td>Operations</td>
     </tr>
-    <tr *ngFor="let book of getAllTheBooks(); let i = index">
+    <tr *ngFor="let book of allTheBooks; let i = index">
       <td>{{ book.id }}</td>
       <td>{{ book.title }}</td>
       <td>{{ book.pageCount}}</td>
-      <td>{{ book.details}}</td>
+      <td>{{ book.description}}</td>
       <td>
         <ul class="list-group">
           <li *ngFor="let author of book.authors" >
@@ -34,4 +34,5 @@
 
   </table>
   <button class="btn btn-primary" (click)="onNewBook()">New</button>
+  <button class="btn btn-primary" (click)="onFetchBooksFromServer()">Fetch books from server</button>
 </div>

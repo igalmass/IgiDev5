@@ -4,8 +4,8 @@
 <!--<p>Editing item with id {{ id  }}</p>-->
 
 <div class="container">
-  <p *ngIf="isInEditMode(); else newModePara">Editing book #{{id}}</p>
-  <p #newModePara>Adding a new book</p>
+  <p *ngIf="isInEditMode()">Editing book #{{editedBookId}}</p>
+  <p *ngIf="!isInEditMode()">Adding a new book</p>
 
   <form [formGroup]="bookForm" (ngSubmit)="onSubmit()">
 

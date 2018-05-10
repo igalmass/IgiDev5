@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { ReactiveFormsModule } from "@angular/forms";
 import { RouterModule, Routes } from "@angular/router";
+import {HttpClientModule} from "@angular/common/http";
 
 import { AppComponent } from './app.component';
 
@@ -11,6 +12,7 @@ import { AuthorListComponent } from './components/author-list/author-list.compon
 import {LibraryService} from "./services/library.service";
 import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
 import { BookFormComponent } from './components/book-form/book-form.component';
+import {DataStorageService} from 'app/services/data-storage.service';
 
 const appRoutes : Routes  = [
   { path: 'books', component: BookListComponent},
@@ -26,6 +28,7 @@ const appRoutes : Routes  = [
 @NgModule({
   declarations: [
     AppComponent,
+
     BookListComponent,
     HeaderComponent,
     AuthorListComponent,
@@ -36,10 +39,11 @@ const appRoutes : Routes  = [
     BrowserModule,
     RouterModule.forRoot(appRoutes,
       {enableTracing: true}), // for debug :),
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    HttpClientModule
 
   ],
-  providers: [LibraryService],
+  providers: [LibraryService, DataStorageService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

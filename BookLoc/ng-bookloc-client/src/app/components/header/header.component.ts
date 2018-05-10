@@ -12,4 +12,16 @@ export class HeaderComponent implements OnInit {
   ngOnInit() {
   }
 
+  onMyDropdown() {
+
+  }
+
+  toggleMenu = false;
+  onToggleMenu() {
+    if (this.toggleMenu == true){
+      this.toggleMenu = false;
+    } else {
+      this.toggleMenu = true;
+    }
+  }
 }

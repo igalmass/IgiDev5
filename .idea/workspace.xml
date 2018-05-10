@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/controllers/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/entities/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/repositories/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/data-storage.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/BooklocApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/BooklocApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/model/book.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/model/book.model.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/book_db.mv.db" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/BookManager/target/" />
     <ignored path="$PROJECT_DIR$/bookmgr/target/" />
@@ -23,56 +32,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="recipe-edit.component.html" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-edit/recipe-edit.component.html">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="153">
-                    <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.module.ts">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="374">
-                    <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-                    <folding>
-                      <element signature="e#0#58#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="recipe-edit.component.ts" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-edit/recipe-edit.component.ts">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="-610">
-                    <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-                    <folding>
-                      <element signature="e#0#50#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="data-storage.service.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/data-storage.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="booklist.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="booklist.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="book-form.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
+            <state relative-caret-position="-374">
+              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -80,79 +76,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="book-form.component.spec.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.spec.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#73#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-form.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BookController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/controllers/BookController.java">
+        <entry file="file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/controllers/BookController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/entities/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-form.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="313">
+              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1144#1145#0" expanded="true" />
+                <element signature="e#1197#1198#0" expanded="true" />
+                <element signature="e#1276#1277#0" expanded="true" />
+                <element signature="e#1329#1330#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/application.properties">
+      <file leaf-file-name="JdkDynamicAopProxy.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.6.RELEASE/spring-aop-5.0.6.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" lean-forward="true" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="370">
+              <caret line="262" column="45" selection-start-line="262" selection-start-column="45" selection-end-line="262" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/resources/application.properties">
+      <file leaf-file-name="BooklocApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/BooklocApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-form.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+            <state relative-caret-position="323">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -160,8 +113,29 @@
       <file leaf-file-name="book.model.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/model/book.model.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book-form.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="library.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -171,9 +145,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
         <option value="TypeScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -217,15 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/auth/auth-guard.service.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app-routing.module.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/core/header/header.component.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shared/data-storage.service.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/auth/signin/signin.component.html" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/auth/signin/signin.component.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shared/auth.interceptor.ts" />
-        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shared/logging.interceptor.ts" />
         <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/core/core.module.ts" />
         <option value="$PROJECT_DIR$/UdemyAngTut/04-ngrx-basic-auth-setup/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/UdemyAngTut/04-ngrx-basic-auth-setup/src/app/store/app.effects.ts" />
@@ -258,16 +223,25 @@
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/model/author.model.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/book.service.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.html" />
-        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html" />
-        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts" />
+        <option value="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.ts" />
+        <option value="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/repositories/BookRepository.java" />
+        <option value="$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/repositories/BookRepository.java" />
+        <option value="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/controllers/BookController.java" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts" />
+        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.css" />
+        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.html" />
+        <option value="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/BooklocApplication.java" />
+        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts" />
+        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html" />
+        <option value="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/entities/Book.java" />
+        <option value="$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shared/data-storage.service.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/model/book.model.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.ts" />
-        <option value="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.html" />
-        <option value="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts" />
+        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/data-storage.service.ts" />
       </list>
     </option>
   </component>
@@ -397,55 +371,103 @@
               <item name="bookloc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="BookManager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="BookManager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="BookManager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="BookManager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="BookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc" type="462c0819:PsiDirectoryNode" />
+              <item name="bookloc-spring-boot-server" type="462c0819:PsiDirectoryNode" />
+              <item name="bookloc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="bookloc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="BookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc" type="462c0819:PsiDirectoryNode" />
+              <item name="bookloc-spring-boot-server" type="462c0819:PsiDirectoryNode" />
+              <item name="bookloc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bookloc" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="igitests111" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc" type="462c0819:PsiDirectoryNode" />
+              <item name="ng-bookloc-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc" type="462c0819:PsiDirectoryNode" />
+              <item name="ng-bookloc-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc" type="462c0819:PsiDirectoryNode" />
+              <item name="ng-bookloc-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc" type="462c0819:PsiDirectoryNode" />
+              <item name="ng-bookloc-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc" type="462c0819:PsiDirectoryNode" />
+              <item name="ng-bookloc-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="book-form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc" type="462c0819:PsiDirectoryNode" />
+              <item name="ng-bookloc-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="booklist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc" type="462c0819:PsiDirectoryNode" />
+              <item name="ng-bookloc-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc" type="462c0819:PsiDirectoryNode" />
+              <item name="ng-bookloc-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="BookManager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
@@ -472,25 +494,6 @@
               <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
@@ -500,16 +503,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="recipes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="recipes" type="462c0819:PsiDirectoryNode" />
-              <item name="recipe-detail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
@@ -525,7 +518,88 @@
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
               <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop-with-ngrx" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe-start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-edit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.0.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.0.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.0.6.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.0.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.0.6.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.0.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.0.6.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.0.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.0.6.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -586,6 +660,7 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.15447155" />
   </component>
   <component name="RunManager" selected="Spring Boot.BooklocApplication">
     <configuration default="true" type="Application" factoryName="Application">
@@ -809,7 +884,7 @@
       <workItem from="1525881575372" duration="105000" />
       <workItem from="1525881742566" duration="7453000" />
       <workItem from="1525940660784" duration="9179000" />
-      <workItem from="1525950032061" duration="3805000" />
+      <workItem from="1525950032061" duration="14714000" />
     </task>
     <task id="LOCAL-00001" summary="First commit in 54">
       <created>1524408971837</created>
@@ -1126,7 +1201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525949692925</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="add reactive form support">
+      <created>1525954161445</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1525954161445</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1162,7 +1244,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208615000" />
+    <option name="totallyTimeSpent" value="219524000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1175,42 +1257,41 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.37037036" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32897604" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.2607562" side_tool="true" weight="0.2217484" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45424837" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32897604" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49946696" visible="true" weight="0.37037036" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32897604" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32897604" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32897604" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32897604" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7392438" visible="true" weight="0.2217484" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32897604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
     <layout-to-restore>
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45424837" />
@@ -1287,8 +1368,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="udmy - improving shopshop - 3" />
-    <MESSAGE value="add directives hahaha" />
     <MESSAGE value="add directives 2" />
     <MESSAGE value="add services support" />
     <MESSAGE value="add services support to out proj" />
@@ -1312,7 +1391,9 @@
     <MESSAGE value="add bootloc" />
     <MESSAGE value="add angular / bootstrap support" />
     <MESSAGE value="add navigation support" />
-    <option name="LAST_COMMIT_MESSAGE" value="add navigation support" />
+    <MESSAGE value="add reactive form support" />
+    <MESSAGE value="add server side support" />
+    <option name="LAST_COMMIT_MESSAGE" value="add server side support" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1340,6 +1421,18 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/controllers/BookController.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/controllers/BookController.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/igitests111/src/test/java/BinaryTrees/MaxDiffHeightCounterTest.java</url>
           <line>34</line>
@@ -1362,152 +1455,40 @@
           <line>32</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/data-storage.service.ts</url>
+          <line>60</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-edit/recipe-edit.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng4-client/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/shared-service/book.service.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/shared-service/book.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/book/book.component.spec.ts" />
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/book/book.component.html" />
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/book/book.component.ts" />
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.spec.ts" />
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/author-list/author-list.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/listbook/listbook.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/listbook/listbook.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/listbook/listbook.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/core/header/header.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/app-routing.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1532,36 +1513,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1588,73 +1545,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-edit/recipe-edit.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-610">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/model/book.model.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/controllers/BookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/entities/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1665,23 +1561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1689,10 +1568,297 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/entities/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IgiCrudTest/src/main/java/com/example/demo/IgiCrudTestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/repositories/BookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/controllers/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IgiCrudTest/src/main/resources/static/restclient/src/app/shared-service/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="10" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/BookManagerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/node_modules/@angular/common/http/src/client.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="813" column="4" selection-start-line="813" selection-start-column="4" selection-end-line="813" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/core/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.6.RELEASE/spring-aop-5.0.6.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-list/recipe-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/repositories/BookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/components/book-form/book-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/node_modules/@angular/common/http/src/client.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="2091" column="4" selection-start-line="2091" selection-start-column="4" selection-end-line="2091" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/shared-service/book.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/entities/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shared/data-storage.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1146">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-start/recipe-start.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/shopping-list/shopping-edit/shopping-edit.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/ng4-udemy-shop/src/app/recipes/recipe-edit/recipe-edit.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.6.RELEASE/spring-aop-5.0.6.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="262" column="45" selection-start-line="262" selection-start-column="45" selection-end-line="262" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/model/book.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/book-form/book-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/BooklocApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/java/com/igi/bookloc/controllers/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1197#1198#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/data-storage.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
