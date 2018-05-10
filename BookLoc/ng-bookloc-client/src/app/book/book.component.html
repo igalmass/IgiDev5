@@ -1,0 +1,17 @@
+<p>
+  book works!
+</p>
+
+<div>
+  <table>
+    <tr>
+      <th>Id</th>
+      <td>Title</td>
+    </tr>
+    <tr *ngFor="let book of getAllTheBooks()">
+      <td>{{ book.id }}</td>
+      <td>{{ book.title }}</td>
+    </tr>
+
+  </table>
+</div>

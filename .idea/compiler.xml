@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bookloc" />
         <module name="BookManager" />
         <module name="demo" />
         <module name="igitests111" />
@@ -13,6 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="book-manager" target="1.5" />
+      <module name="bookloc" target="1.8" />
       <module name="BookManager" target="1.8" />
       <module name="bookmgr" target="1.8" />
       <module name="demo" target="1.8" />
