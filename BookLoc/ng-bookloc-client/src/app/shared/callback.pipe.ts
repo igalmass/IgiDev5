@@ -11,7 +11,7 @@ export class CallbackPipe implements PipeTransform {
     }
 
     const result = items.filter(item => callback(item, title));
-    debugger;
+
     return result;
   }
 

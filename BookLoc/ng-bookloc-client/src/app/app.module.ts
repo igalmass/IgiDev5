@@ -15,7 +15,10 @@ import { BookFormComponent } from './components/book-form/book-form.component';
 import {DataStorageService} from 'app/services/data-storage.service';
 import {MyFilterByFieldPipe} from "./shared/my-filter-by-field.pipe";
 import {CallbackPipe} from 'app/shared/callback.pipe';
-import { DropdownComponent } from './components/shared/dropdown/dropdown.component';
+import { SortableColumnComponent } from './components/shared/sortable-column/sortable-column.component';
+import {SortService} from 'app/components/shared/sortable-column/sort.service';
+import {SortableTableDirective} from 'app/components/shared/sortable-column/sortable-table.directive';
+import {MyArraySortPipe} from "./components/shared/sortable-column/my-array-sort.pipe";
 
 const appRoutes : Routes  = [
   { path: 'books', component: BookListComponent},
@@ -38,19 +41,21 @@ const appRoutes : Routes  = [
     PageNotFoundComponent,
     BookFormComponent,
     MyFilterByFieldPipe,
+    MyArraySortPipe,
+    SortableTableDirective,
     CallbackPipe,
-    DropdownComponent
+    SortableColumnComponent
   ],
   imports: [
     BrowserModule,
-    RouterModule.forRoot(appRoutes,
-      {enableTracing: true}), // for debug :),
+    RouterModule.forRoot(appRoutes),
+      //{enableTracing: true}), // for debug :),
     ReactiveFormsModule,
     HttpClientModule,
     FormsModule
 
   ],
-  providers: [LibraryService, DataStorageService],
+  providers: [LibraryService, DataStorageService, SortService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

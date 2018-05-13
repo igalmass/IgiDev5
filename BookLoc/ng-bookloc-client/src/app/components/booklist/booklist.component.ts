@@ -12,11 +12,20 @@ import {Subscription} from 'rxjs/Subscription';
 })
 export class BookListComponent implements OnInit, OnDestroy {
 
-  constructor(private libraryService: LibraryService, private dataStorageService: DataStorageService, private route: ActivatedRoute, private router: Router) { }
+  constructor(private libraryService: LibraryService,
+              private dataStorageService: DataStorageService,
+              private route: ActivatedRoute,
+              private router: Router) { }
 
   allTheBooks : Book[];
   subscription : Subscription;
-  filterByTitleString = 'the filter';
+  filterByTitleString = ''; // = 'the filter';
+  options = [
+    { label: 'title', value: 'title'},
+    { label: 'description', value: 'description'},
+    ];
+
+  selectedFilterFieldName = "description";
 
   ngOnInit() {
     this.allTheBooks = this.libraryService.getAllTheBooks();
@@ -49,10 +58,19 @@ export class BookListComponent implements OnInit, OnDestroy {
   }
 
   filterByTitleFunc(book : Book, titleFilter: string){
-    debugger;
     const result = book.title.indexOf(titleFilter) != -1;
     return result;
   }
 
 
+  oncClearFilterValue() {
+    this.filterByTitleString = "";
+  }
+
+  onSorted($event: any) {
+    // debugger;
+    console.log('from booklist::onSoreted()');
+    console.log("The event:");
+    console.log($event);
+  }
 }

@@ -4,29 +4,36 @@
 
 <div>
   <div>
-    <p>Filter by title: <input type="text" [(ngModel)]="filterByTitleString" width="300px"></p>
+    <p>Filter by title: <input type="text" [(ngModel)]="filterByTitleString" width="300px"><button class="btn btn-primary" style="margin-left: 30px" (click)="oncClearFilterValue()">Clear</button></p>
+
+  </div>
+
+  <div>Select / sort by field: (sel = {{ selectedFilterFieldName}})
+    <select [(ngModel)]="selectedFilterFieldName">
+      <option *ngFor="let option of options" [value]="option.value" [selected]="option.value == selectedFilterFieldName">{{ option.label}}</option>
+    </select>
   </div>
 
   <br>
 
-  <table class="table table-striped">
+  <table class="table table-striped" sortable-table (sorted)="onSorted($event)">
     <tr>
       <th>Id</th>
-      <td>Title</td>
-      <td>Page count</td>
-      <td>Description</td>
+      <td sortable-column="id" sort-direction="asc">Title</td>
+      <td sortable-column="pageCount">Page count</td>
+      <td sortable-column="description">Description</td>
       <td>Authors</td>
 
       <td>Operations</td>
     </tr>
-    <tr *ngFor="let book of allTheBooks | callbackPipe : filterByTitleFunc : filterByTitleString ">
-      <td>{{ book.id }}</td>
+    <tr *ngFor="let book of allTheBooks | callbackPipe : filterByTitleFunc : filterByTitleString | mySortArrayPipe : selectedFilterFieldName">
+      <td >{{ book.id }}</td>
       <td>{{ book.title }}</td>
       <td>{{ book.pageCount}}</td>
       <td>{{ book.description}}</td>
       <td>
         <ul class="list-group">
-          <li *ngFor="let author of book.authors" >
+          <li *ngFor="let author of book.authors">
             {{ author.id }} - {{ author.name}}
           </li>
         </ul>
