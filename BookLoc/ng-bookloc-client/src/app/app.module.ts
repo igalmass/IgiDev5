@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { ReactiveFormsModule } from "@angular/forms";
+import {FormsModule, ReactiveFormsModule} from "@angular/forms";
 import { RouterModule, Routes } from "@angular/router";
 import {HttpClientModule} from "@angular/common/http";
 
@@ -13,6 +13,9 @@ import {LibraryService} from "./services/library.service";
 import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
 import { BookFormComponent } from './components/book-form/book-form.component';
 import {DataStorageService} from 'app/services/data-storage.service';
+import {MyFilterByFieldPipe} from "./shared/my-filter-by-field.pipe";
+import {CallbackPipe} from 'app/shared/callback.pipe';
+import { DropdownComponent } from './components/shared/dropdown/dropdown.component';
 
 const appRoutes : Routes  = [
   { path: 'books', component: BookListComponent},
@@ -33,14 +36,18 @@ const appRoutes : Routes  = [
     HeaderComponent,
     AuthorListComponent,
     PageNotFoundComponent,
-    BookFormComponent
+    BookFormComponent,
+    MyFilterByFieldPipe,
+    CallbackPipe,
+    DropdownComponent
   ],
   imports: [
     BrowserModule,
     RouterModule.forRoot(appRoutes,
       {enableTracing: true}), // for debug :),
     ReactiveFormsModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
 
   ],
   providers: [LibraryService, DataStorageService],

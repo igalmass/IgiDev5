@@ -16,6 +16,7 @@ export class BookListComponent implements OnInit, OnDestroy {
 
   allTheBooks : Book[];
   subscription : Subscription;
+  filterByTitleString = 'the filter';
 
   ngOnInit() {
     this.allTheBooks = this.libraryService.getAllTheBooks();
@@ -46,4 +47,12 @@ export class BookListComponent implements OnInit, OnDestroy {
   ngOnDestroy(): void {
     this.subscription.unsubscribe();
   }
+
+  filterByTitleFunc(book : Book, titleFilter: string){
+    debugger;
+    const result = book.title.indexOf(titleFilter) != -1;
+    return result;
+  }
+
+
 }
