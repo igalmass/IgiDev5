@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/my-array-sort.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-table.directive.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/dropdown/dropdown.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sort.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/dropdown/dropdown.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/dropdown/dropdown.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/dropdown/dropdown.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/my-array-sort.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/my-array-sort.pipe.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/shared/callback.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/shared/callback.pipe.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/BookManager/target/" />
@@ -34,8 +25,8 @@
       <file leaf-file-name="booklist.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            <state relative-caret-position="-469">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -43,23 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="library.service.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="73" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="booklist.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="booklist.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="-313">
+              <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -67,11 +46,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my-array-sort.pipe.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="callback.pipe.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/shared/callback.pipe.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="53" lean-forward="true" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-array-sort.pipe.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/my-array-sort.pipe.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -84,7 +72,7 @@
       <file leaf-file-name="sortable-column.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-column.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="425">
               <caret line="36" selection-start-line="34" selection-end-line="36" />
             </state>
           </provider>
@@ -102,8 +90,8 @@
       <file leaf-file-name="sortable-table.directive.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-table.directive.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="306">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
               <folding>
                 <element signature="e#0#81#0" expanded="true" />
               </folding>
@@ -114,8 +102,8 @@
       <file leaf-file-name="sort.service.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sort.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="289">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -144,8 +132,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>nf</find>
-      <find>signupForm</find>
       <find>Promise</find>
       <find>&quot;NgForm&quot;</find>
       <find>margin-top</find>
@@ -174,6 +160,8 @@
       <find>SortService</find>
       <find>{{ author.id }} - {{ author.na</find>
       <find>mySor</find>
+      <find>select</find>
+      <find>asc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -226,13 +214,13 @@
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-table.directive.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sort.service.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-column.component.ts" />
-        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/shared/callback.pipe.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/my-sort-array.pipe.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts" />
-        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/my-array-sort.pipe.ts" />
-        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts" />
+        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/shared/callback.pipe.ts" />
         <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html" />
+        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts" />
+        <option value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/my-array-sort.pipe.ts" />
       </list>
     </option>
   </component>
@@ -483,7 +471,14 @@
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
               <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
-              <item name="ng4-udemy-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop-with-ngrx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="ng4-udemy-shop-with-ngrx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
@@ -816,7 +811,7 @@
       <workItem from="1526196260787" duration="2442000" />
       <workItem from="1526203831868" duration="182000" />
       <workItem from="1526204042727" duration="9133000" />
-      <workItem from="1526221228033" duration="238000" />
+      <workItem from="1526221228033" duration="2045000" />
     </task>
     <task id="LOCAL-00001" summary="First commit in 54">
       <created>1524408971837</created>
@@ -1154,7 +1149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526203075489</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="add sort to the table">
+      <created>1526221700205</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1526221700205</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1190,7 +1192,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236226000" />
+    <option name="totallyTimeSpent" value="238033000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1206,7 +1208,7 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.22068231" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -1223,13 +1225,14 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32897604" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.4989339" weight="0.37037036" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4978678" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49733475" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32897604" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.7793177" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.77878463" weight="0.32897604" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7392438" visible="true" weight="0.24840085" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840087" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1238,7 +1241,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.32897604" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="2" />
@@ -1315,7 +1317,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add services support to out proj" />
     <MESSAGE value="add services support to our proj" />
     <MESSAGE value="adding basic routes" />
     <MESSAGE value="adding basic routes - 2" />
@@ -1340,7 +1341,8 @@
     <MESSAGE value="add server side support" />
     <MESSAGE value="add server side support 22" />
     <MESSAGE value="add filter to table" />
-    <option name="LAST_COMMIT_MESSAGE" value="add filter to table" />
+    <MESSAGE value="add sort to the table" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sort to the table" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1402,18 +1404,23 @@
           <line>32</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/shared/callback.pipe.ts</url>
+          <line>9</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts</url>
+          <line>78</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="16" />
+      <option name="time" value="18" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" lean-forward="true" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1641,6 +1648,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1654,13 +1664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/shared/callback.pipe.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/services/library.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1671,37 +1674,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="379" column="22" selection-start-line="379" selection-start-column="22" selection-end-line="379" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-column.component.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-table.directive.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-column.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="36" selection-start-line="34" selection-end-line="36" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-column.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sort.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1714,10 +1700,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/shared/callback.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="53" lean-forward="true" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-table.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sortable-column.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="36" selection-start-line="34" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/sort.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="-469">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
@@ -1726,18 +1753,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/shared/sortable-column/my-array-sort.pipe.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookLoc/ng-bookloc-client/src/app/components/booklist/booklist.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -4,7 +4,7 @@
 
 <div>
   <div>
-    <p>Filter by title: <input type="text" [(ngModel)]="filterByTitleString" width="300px"><button class="btn btn-primary" style="margin-left: 30px" (click)="oncClearFilterValue()">Clear</button></p>
+    <p>Filter by title: <input type="text" [(ngModel)]="filterFieldValue" width="300px"><button class="btn btn-primary" style="margin-left: 30px" (click)="oncClearFilterValue()">Clear</button></p>
 
   </div>
 
@@ -26,7 +26,7 @@
 
       <td>Operations</td>
     </tr>
-    <tr *ngFor="let book of allTheBooks | callbackPipe : filterByTitleFunc : filterByTitleString | mySortArrayPipe : selectedFilterFieldName">
+    <tr *ngFor="let book of allTheBooks | callbackPipe : filterByTitleFunc : filterFieldValue | mySortArrayPipe : selectedFilterFieldName : sortOrder">
       <td >{{ book.id }}</td>
       <td>{{ book.title }}</td>
       <td>{{ book.pageCount}}</td>

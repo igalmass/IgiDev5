@@ -4,6 +4,7 @@ import {ActivatedRoute, Router} from "@angular/router";
 import {DataStorageService} from 'app/services/data-storage.service';
 import {Book} from 'app/model/book.model';
 import {Subscription} from 'rxjs/Subscription';
+import {ColumnSortedEvent} from "../shared/sortable-column/sort.service";
 
 @Component({
   selector: 'app-booklist',
@@ -19,13 +20,16 @@ export class BookListComponent implements OnInit, OnDestroy {
 
   allTheBooks : Book[];
   subscription : Subscription;
-  filterByTitleString = ''; // = 'the filter';
+
   options = [
     { label: 'title', value: 'title'},
     { label: 'description', value: 'description'},
+    { label: 'pageCount', value: 'pageCount'}
     ];
+  sortOrder = 'asc';
 
   selectedFilterFieldName = "description";
+  filterFieldValue = ''; // = 'the filter';
 
   ngOnInit() {
     this.allTheBooks = this.libraryService.getAllTheBooks();
@@ -64,13 +68,16 @@ export class BookListComponent implements OnInit, OnDestroy {
 
 
   oncClearFilterValue() {
-    this.filterByTitleString = "";
+    this.filterFieldValue = "";
   }
 
-  onSorted($event: any) {
-    // debugger;
+  onSorted($event: ColumnSortedEvent) {
+    debugger;
     console.log('from booklist::onSoreted()');
     console.log("The event:");
     console.log($event);
+    this.selectedFilterFieldName = $event.sortColumn;
+    this.sortOrder = $event.sortDirection;
+
   }
 }
