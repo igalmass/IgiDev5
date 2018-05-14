@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/UdIonic/ex1-mystart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UdIonic/ionic-quotes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/UdIonic/ionic2-basics" vcs="Git" />
   </component>
 </project>
