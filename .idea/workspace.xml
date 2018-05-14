@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-components/src/components/touch-event.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/BookManager/target/" />
@@ -184,7 +182,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UdIonic/ex2-components" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -715,14 +713,7 @@
       <workItem from="1526204042727" duration="9133000" />
       <workItem from="1526221228033" duration="8957000" />
       <workItem from="1526236628298" duration="550000" />
-      <workItem from="1526289275392" duration="28287000" />
-    </task>
-    <task id="LOCAL-00005" summary="Working 555">
-      <created>1524562948731</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1524562948731</updated>
+      <workItem from="1526289275392" duration="28570000" />
     </task>
     <task id="LOCAL-00006" summary="Working 555">
       <created>1524562965186</created>
@@ -1060,7 +1051,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526313902395</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="add components + ex2">
+      <created>1526320284821</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1526320284821</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1096,7 +1094,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273782000" />
+    <option name="totallyTimeSpent" value="274065000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1112,7 +1110,7 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2249467" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5079957" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -1129,11 +1127,11 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32897604" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.4989339" weight="0.37037036" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49307036" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49200428" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32897604" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.7750533" visible="true" weight="0.32897604" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7392438" visible="true" weight="0.25373134" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.7745203" weight="0.32897604" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7392438" visible="true" weight="0.25373134" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840087" weight="0.32897604" />
@@ -1221,7 +1219,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adding basic routes - 3" />
     <MESSAGE value="adding routing to course project" />
     <MESSAGE value="add observables" />
     <MESSAGE value="add forms" />
@@ -1246,7 +1243,8 @@
     <MESSAGE value="add sort to the table - 2" />
     <MESSAGE value="add ionic basics" />
     <MESSAGE value="add ionic quotes application :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ionic quotes application :)" />
+    <MESSAGE value="add components + ex2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add components + ex2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
