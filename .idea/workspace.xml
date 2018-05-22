@@ -1,123 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.ts" line="31" mnemonic="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="add components">
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/ionic.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/ionic.starter.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/icon/drawable-hdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/icon/drawable-ldpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/icon/drawable-mdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/icon/drawable-xhdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/icon/drawable-xxhdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/icon/drawable-xxxhdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-land-hdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-land-ldpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-land-mdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-land-xhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-land-xxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-land-xxxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-port-hdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-port-ldpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-port-mdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-port-xhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-port-xxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-port-xxxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/icon.png.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-50@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-72@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-small@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon-small@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/icon/icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default-568h@2x~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default-667h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default-736h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default-Landscape-736h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default-Landscape@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default-Landscape@~ipadpro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default-Landscape~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default-Portrait@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default-Portrait@~ipadpro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default-Portrait~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default@2x~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default@2x~universal~anyany.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/ios/splash/Default~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/splash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/splash.png.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/assets/icon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/assets/imgs/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/models/location.model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/models/place.model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/add-place/add-place.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/add-place/add-place.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/add-place/add-place.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/add-place/add-place.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/home/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/home/home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/home/home.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place/place.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place/place.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place/place.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place/place.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/places-manager/places-manager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/places-manager/places-manager.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/places-manager/places-manager.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/places-manager/places-manager.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/places.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/toaster.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/theme/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IgiDev5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IgiDev5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list id="84a05e12-0e61-4c13-8cbe-154a9c326b4d" name="DO NOT SUBMIT !!!" comment="">
+      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.module.ts" afterDir="false" />
+    </list>
+    <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdIonic/ex1-mystart" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ex1-mystart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UdIonic/ex2-components" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ex2-components" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/favorites/favorites.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/favorites/favorites.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/library/library.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/library/library.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/library/library.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/library/library.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/quote/quote.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/quote/quote.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/quotes/quotes.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/quotes/quotes.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/quotes/quotes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/quotes/quotes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/settings/settings.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/settings/settings.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/places.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/places.service.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/BookManager/target/" />
     <ignored path="$PROJECT_DIR$/bookmgr/target/" />
@@ -133,16 +33,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="icon.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/icon.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="drawable-port-ldpi-screen.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/resources/android/splash/drawable-port-ldpi-screen.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
@@ -154,20 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="set-location.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="629">
+              <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -175,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="set-location.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.scss">
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            <state relative-caret-position="1445">
+              <caret line="85" column="18" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -187,8 +68,8 @@
       <file leaf-file-name="places.service.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/places.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+            <state relative-caret-position="969">
+              <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -196,33 +77,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/platforms/android/app/build/intermediates/assets/debug/www/build/main.js">
+      <file leaf-file-name="app.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/app/app.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="775" column="6" lean-forward="true" selection-start-line="775" selection-start-column="6" selection-end-line="775" selection-end-column="6" />
+            <state relative-caret-position="255">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/home/home.ts">
+      <file leaf-file-name="home.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+            <state relative-caret-position="160">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UdIonic/ionic-components/src/app/app.module.ts">
+        <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/app/main.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#75#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -241,10 +149,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>reverse().join()</find>
-      <find>bootstrap</find>
-      <find>initForm</find>
-      <find>DropdownModule</find>
       <find>SortService</find>
       <find>mySor</find>
       <find>select</find>
@@ -271,17 +175,18 @@
       <find>set</find>
       <find>places</find>
       <find>Choose location</find>
+      <find>AIzaSyDT6xqMynn3T5mQv6RGcxvAxF1z9xRHx3g</find>
+      <find>AIzaSyCOa4u9DdK5rT6HiOxi2C4JdtyLDKx23PU</find>
+      <find>failed to load pl</find>
+      <find>failed to load</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UdIonic/ionic-awesome-places" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UdIonic/ex1-mystart" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/app/app.html" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/services/setings.service.ts" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/settings/settings.ts" />
         <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/settings/settings.html" />
         <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/theme/variables.scss" />
@@ -328,8 +233,11 @@
         <option value="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/toaster.service.ts" />
         <option value="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/add-place/add-place.ts" />
         <option value="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.scss" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/places.service.ts" />
         <option value="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/UdIonic/ionic-awesome-places/config.xml" />
+        <option value="$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/places.service.ts" />
+        <option value="$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.html" />
+        <option value="$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.ts" />
       </list>
     </option>
   </component>
@@ -491,6 +399,7 @@
       <path value="$PROJECT_DIR$/UdemyAngTut/routing-start/package.json" />
       <path value="$PROJECT_DIR$/UdemyAngTut/services-start/package.json" />
       <path value="$PROJECT_DIR$/UdemyAngTut/unit-testing-start/package.json" />
+      <path value="$PROJECT_DIR$/UdemyReact/react-complete-guide/package.json" />
       <path value="$PROJECT_DIR$/node_modules/ngx-dropdown/package.json" />
     </packageJsonPaths>
   </component>
@@ -508,6 +417,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -525,77 +435,6 @@
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
               <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-awesome-places" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-awesome-places" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-awesome-places" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-awesome-places" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-awesome-places" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-components" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-components" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-components" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
-              <item name="UdIonic" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-quotes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
@@ -640,7 +479,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -888,6 +726,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="" />
+      <changelist id="84a05e12-0e61-4c13-8cbe-154a9c326b4d" name="DO NOT SUBMIT !!!" comment="" />
       <created>1524408940705</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -937,14 +776,11 @@
       <workItem from="1526480406363" duration="7946000" />
       <workItem from="1526535575631" duration="1697000" />
       <workItem from="1526537694027" duration="2347000" />
-      <workItem from="1526566921687" duration="8001000" />
-    </task>
-    <task id="LOCAL-00007" summary="Working 555">
-      <created>1524565361154</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1524565361154</updated>
+      <workItem from="1526566921687" duration="8408000" />
+      <workItem from="1526575970260" duration="1687000" />
+      <workItem from="1526765381964" duration="1537000" />
+      <workItem from="1526891920294" duration="591000" />
+      <workItem from="1526971066134" duration="1554000" />
     </task>
     <task id="LOCAL-00008" summary="added IgiCrud - working users sample">
       <created>1524565422124</created>
@@ -1282,7 +1118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526320362730</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="add awesome-location ionic proj">
+      <created>1526575366833</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1526575366834</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1318,7 +1161,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="314706000" />
+    <option name="totallyTimeSpent" value="320482000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1331,15 +1174,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Android Profiler" order="7" />
       <window_info id="Build Variants" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50959486" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.23294243" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Logcat" order="7" />
+      <window_info anchor="bottom" id="Logcat" order="7" sideWeight="0.49946696" weight="0.32897604" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32897604" />
       <window_info id="Designer" order="2" />
@@ -1355,26 +1197,26 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32897604" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.4989339" weight="0.37037036" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4904051" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.48880598" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32897604" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.77025586" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.7670576" visible="true" weight="0.32897604" />
       <window_info id="Captures" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7392438" visible="true" weight="0.25746268" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7392438" visible="true" weight="0.25746268" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49733475" weight="0.32897604" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32897604" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49733475" weight="0.32897604" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.32897604" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45424837" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32897604" />
@@ -1407,7 +1249,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45424837" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.32897604" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1448,7 +1290,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adding routing to course project" />
     <MESSAGE value="add observables" />
     <MESSAGE value="add forms" />
     <MESSAGE value="reactive forms - finish" />
@@ -1473,7 +1314,8 @@
     <MESSAGE value="add ionic basics" />
     <MESSAGE value="add ionic quotes application :)" />
     <MESSAGE value="add components + ex2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add components + ex2" />
+    <MESSAGE value="add awesome-location ionic proj" />
+    <option name="LAST_COMMIT_MESSAGE" value="add awesome-location ionic proj" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1555,51 +1397,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/node_modules/@ionic-native/camera/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2448">
-          <caret line="144" selection-start-line="144" selection-end-line="144" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/models/location.model.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/add-place/add-place.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/models/place.model.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place/place.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place/place.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1669,43 +1466,16 @@
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/home/home.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place-manager/place-manager.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place-manager/place-manager.module.ts" />
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/main.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place-manager/place-manager.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place-manager/place-manager.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="102" selection-start-line="18" selection-start-column="102" selection-end-line="18" selection-end-column="102" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place-manager/place-manager.html" />
+    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place-manager/place-manager.ts" />
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/places-manager/places-manager.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1727,9 +1497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
           <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1737,9 +1504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1747,9 +1511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="93" column="12" lean-forward="true" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1818,39 +1579,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/platforms/android/app/build/intermediates/assets/debug/www/build/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="775" column="6" lean-forward="true" selection-start-line="775" selection-start-column="6" selection-end-line="775" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/places.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="697">
+          <caret column="41963" selection-start-column="41963" selection-end-column="41963" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/home/home.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
+        <state relative-caret-position="442">
           <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-components/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -1861,12 +1603,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="18" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="629">
+          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/places.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/app/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/app/app.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
