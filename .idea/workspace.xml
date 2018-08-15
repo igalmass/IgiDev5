@@ -4,15 +4,45 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/igi-mongo-node/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/igi-mongo-node/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/igi-mongo-node/models/ninja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/igi-mongo-node/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/igi-mongo-node/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/igi-mongo-node/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/igi-mongo-node/public/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/igi-mongo-node/routes/api.js" afterDir="false" />
+    <list default="true" id="37cc9a66-408e-42de-a9de-f4e716a2df14" name="Default" comment="update modules">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/services/book.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/services/book.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -32,29 +62,60 @@
     <session id="-85531137">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="gitignore" value="1" />
-          <entry key="html" value="1" />
+          <entry key="browserslist" value="1" />
+          <entry key="css" value="5" />
+          <entry key="gitignore" value="3" />
+          <entry key="html" value="4" />
+          <entry key="java" value="1" />
           <entry key="js" value="3" />
-          <entry key="json" value="2" />
-          <entry key="xml" value="1" />
+          <entry key="json" value="3" />
+          <entry key="ts" value="13" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="1" />
-          <entry key="JSON" value="2" />
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="4" />
+          <entry key="JAVA" value="1" />
+          <entry key="JSON" value="3" />
           <entry key="JavaScript" value="3" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="TypeScript" value="13" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="156" />
+          <entry key="json" value="43" />
+          <entry key="ts" value="393" />
+          <entry key="txt" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="156" />
+          <entry key="JSON" value="43" />
+          <entry key="PLAIN_TEXT" value="42" />
+          <entry key="TypeScript" value="393" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -62,53 +123,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/browserslist">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+        <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igi-mongo-node/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igi-mongo-node/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igi-mongo-node/package-lock.json">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igi-mongo-node/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igi-mongo-node/public/index.html">
+        <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.css">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/igi-mongo-node/public/styles.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igi-mongo-node/models/ninja.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/igi-mongo-node/routes/api.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -124,7 +223,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mySor</find>
       <find>select</find>
       <find>asc</find>
       <find>favoritesPage</find>
@@ -154,6 +252,7 @@
       <find>failed to load pl</find>
       <find>failed to load</find>
       <find>apiKey</find>
+      <find>book-ser</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -162,17 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/theme/variables.scss" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/favorites/favorites.scss" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/favorites/favorites.html" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/favorites/favorites.ts" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-components/src/pages/home/home.scss" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-components/src/pages/home/home.ts" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-components/src/components/touch-event.component.ts" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-components/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/UdIonic/ionic-components/src/pages/home/home.html" />
-        <option value="$PROJECT_DIR$/UdIonic/ex2-components/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/UdIonic/ex2-components/src/components/reset.component.ts" />
         <option value="$PROJECT_DIR$/UdIonic/ex2-components/src/pages/home/home.html" />
         <option value="$PROJECT_DIR$/UdIonic/ex2-components/src/pages/home/home.ts" />
         <option value="$PROJECT_DIR$/UdIonic/ionic-quotes/src/pages/favorites/favorites.module.ts" />
@@ -213,6 +301,17 @@
         <option value="$PROJECT_DIR$/UdIonic/ex1-mystart/src/pages/home/home.ts" />
         <option value="$PROJECT_DIR$/UdemyReact/complete-react-app/src/App.js" />
         <option value="$PROJECT_DIR$/UdemyReact/complete-react-app/src/components/Persons/Persons.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/styles.css" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/index.html" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/package.json" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.css" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/services/book-service.service.ts" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/services/book.service.ts" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.ts" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.html" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.module.ts" />
       </list>
     </option>
   </component>
@@ -229,9 +328,13 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/BookLoc/ng-bookloc-client/package.json" />
+      <path value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/package.json" />
       <path value="$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/package.json" />
       <path value="$PROJECT_DIR$/IgiCrudTest/src/main/resources/static/restclient/package.json" />
       <path value="$PROJECT_DIR$/UdemyAngTut/basic-assignemt1/package.json" />
@@ -261,10 +364,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="145" />
+    <option name="y" value="123" />
+    <option name="width" value="1717" />
+    <option name="height" value="924" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -274,6 +377,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,13 +386,48 @@
               <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
               <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc_Ng_Node" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="BookLoc_Ng_Node" type="462c0819:PsiDirectoryNode" />
+              <item name="ng-mat-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="http-start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="http-start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IgiDev5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IgiDev5" type="462c0819:PsiDirectoryNode" />
+              <item name="UdemyAngTut" type="462c0819:PsiDirectoryNode" />
+              <item name="http-start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,18 +437,19 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534332941473" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534356895908" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/UdemyAngTut/unit-testing-start/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -346,7 +487,7 @@
     </option>
     <option name="contentProportion" value="0.15447155" />
   </component>
-  <component name="RunManager" selected="Spring Boot.BooklocApplication">
+  <component name="RunManager" selected="npm.start-dev">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -363,40 +504,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="BinaryTrees" />
       <option name="MAIN_CLASS_NAME" value="BinaryTrees.MaxDiffHeightCounterTest" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_0_Correctly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="igitests111" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinaryTrees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BinaryTrees" />
-      <option name="MAIN_CLASS_NAME" value="BinaryTrees.MaxDiffHeightCounterTest" />
-      <option name="METHOD_NAME" value="getMaxHeightOf_0_Correctly" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxDiffHeightCounterTest.getMaxHeightOf_1_Correctly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="igitests111" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinaryTrees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BinaryTrees" />
-      <option name="MAIN_CLASS_NAME" value="BinaryTrees.MaxDiffHeightCounterTest" />
-      <option name="METHOD_NAME" value="getMaxHeightOf_1_Correctly" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -464,22 +571,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="start-dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start-dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.IgiCrudTestApplication" />
       <item itemvalue="Spring Boot.BooklocApplication" />
-      <item itemvalue="JUnit.MaxDiffHeightCounterTest.getMaxHeightOf_0_Correctly" />
-      <item itemvalue="JUnit.MaxDiffHeightCounterTest.getMaxHeightOf_1_Correctly" />
       <item itemvalue="JUnit.MaxDiffHeightCounterTest.getMaxHeightOf_1_With2ElementsCorrectly" />
       <item itemvalue="JUnit.MaxDiffHeightCounterTest" />
       <item itemvalue="JUnit.MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" />
+      <item itemvalue="npm.start-dev" />
+      <item itemvalue="npm.start" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start-dev" />
+        <item itemvalue="npm.start" />
         <item itemvalue="JUnit.MaxDiffHeightCounterTest.getMaxHeightOf_2_With_2_1_Correctly" />
         <item itemvalue="JUnit.MaxDiffHeightCounterTest" />
         <item itemvalue="JUnit.MaxDiffHeightCounterTest.getMaxHeightOf_1_With2ElementsCorrectly" />
-        <item itemvalue="JUnit.MaxDiffHeightCounterTest.getMaxHeightOf_1_Correctly" />
-        <item itemvalue="JUnit.MaxDiffHeightCounterTest.getMaxHeightOf_0_Correctly" />
       </list>
     </recent_temporary>
   </component>
@@ -553,21 +680,9 @@
       <workItem from="1527098048300" duration="171000" />
       <workItem from="1527359015770" duration="911000" />
       <workItem from="1534325988121" duration="26000" />
-      <workItem from="1534330895371" duration="1170000" />
-    </task>
-    <task id="LOCAL-00013" summary="add algoths test solution">
-      <created>1524594709705</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1524594709705</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Basic udmy shop tutorial">
-      <created>1524641723997</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1524641723997</updated>
+      <workItem from="1534330895371" duration="1299000" />
+      <workItem from="1534351908530" duration="1296000" />
+      <workItem from="1534353268914" duration="3652000" />
     </task>
     <task id="LOCAL-00015" summary="Basic udmy shop tutorial 2">
       <created>1524646978093</created>
@@ -898,7 +1013,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527359594748</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="add igi mongo node sample">
+      <created>1534332967835</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1534332967835</updated>
+    </task>
+    <task id="LOCAL-00063" summary="update modules">
+      <created>1534333017561</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1534333017562</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -934,7 +1063,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="327669000" />
+    <option name="totallyTimeSpent" value="332746000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -946,9 +1075,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="28" width="1920" height="883" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7392438" visible="true" weight="0.26175213" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7392438" visible="true" weight="0.29326922" />
       <window_info id="Structure" order="1" sideWeight="0.2607562" side_tool="true" weight="0.2217484" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -958,25 +1087,25 @@
       <window_info id="Captures" order="7" />
       <window_info id="Capture Tool" order="8" />
       <window_info id="Web" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4968017" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4957265" weight="0.32793522" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49732906" weight="0.38866398" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45424837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.51816237" side_tool="true" visible="true" weight="0.3283582" />
-      <window_info anchor="bottom" id="Logcat" order="9" sideWeight="0.49946696" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5219017" side_tool="true" visible="true" weight="0.32793522" />
+      <window_info anchor="bottom" id="Logcat" order="9" sideWeight="0.49893162" weight="0.32822478" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.4818376" visible="true" weight="0.3283582" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.7633547" weight="0.33582088" />
-      <window_info anchor="bottom" id="TypeScript" order="13" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.4780983" visible="true" weight="0.32793522" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.7569444" weight="0.30094466" />
+      <window_info anchor="bottom" id="TypeScript" order="13" sideWeight="0.49946582" weight="0.32876712" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32897604" />
       <window_info anchor="bottom" id="Spring" order="15" weight="0.32897604" />
       <window_info anchor="bottom" id="Messages" order="16" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.4989339" weight="0.37037036" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.49679488" weight="0.369863" />
+      <window_info anchor="bottom" id="Docker" order="18" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1028,6 +1157,28 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/css-names.js" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/class-names.js.map" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/input-names.js" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/property-names.js.map" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/method-call-checks.js" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/export-as-names.js" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/element-selectors.js.map" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/property-names.js" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/method-call-checks.js.map" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/output-names.js" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/input-names.js.map" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/element-selectors.js" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/css-names.js.map" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/export-as-names.js.map" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/attribute-selectors.js" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/class-names.js" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/output-names.js.map" />
+        <option value="$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/node_modules/@angular/material/schematics/update/material/data/attribute-selectors.js.map" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1059,8 +1210,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add forms" />
-    <MESSAGE value="reactive forms - finish" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/UdIonic/ex1-mystart" />
+      <path value="$PROJECT_DIR$/UdIonic/ex2-components" />
+      <path value="$PROJECT_DIR$/UdIonic/ionic-awesome-places" />
+      <path value="$PROJECT_DIR$/UdIonic/ionic-components" />
+      <path value="$PROJECT_DIR$/UdIonic/ionic-quotes" />
+      <path value="$PROJECT_DIR$/UdIonic/ionic2-basics" />
+      <path value="$PROJECT_DIR$/igi-mongo-node" />
+    </ignored-roots>
     <MESSAGE value="course project - forms" />
     <MESSAGE value="add pipes support" />
     <MESSAGE value="add http" />
@@ -1084,7 +1242,9 @@
     <MESSAGE value="add components + ex2" />
     <MESSAGE value="add awesome-location ionic proj" />
     <MESSAGE value="add react base" />
-    <option name="LAST_COMMIT_MESSAGE" value="add react base" />
+    <MESSAGE value="add igi mongo node sample" />
+    <MESSAGE value="update modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="update modules" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1165,23 +1325,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place/place.html" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/package.json" />
-    <entry file="file://$PROJECT_DIR$/UdemyAngTut/unit-testing-start/node_modules/typescript/lib/lib.dom.d.ts" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/node_modules/@ionic-native/native-storage/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/node_modules/@ionic-native/file/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/add-place/add-place.html" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place-manager/place-manager.module.ts" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place-manager/place-manager.html" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/place-manager/place-manager.ts" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/places-manager/places-manager.module.ts" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/places-manager/places-manager.html" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/home/home.html" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/places-manager/places-manager.ts" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/services/toaster.service.ts" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/add-place/add-place.ts" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/add-place/add-place.scss" />
-    <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.html" />
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/set-location/set-location.scss" />
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/platforms/android/app/build/intermediates/assets/debug/www/build/main.js" />
     <entry file="file://$PROJECT_DIR$/UdIonic/ionic-awesome-places/src/pages/home/home.ts" />
@@ -1212,7 +1355,10 @@
     <entry file="file://$PROJECT_DIR$/igi-mongo-node/public/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/igi-mongo-node/models/ninja.js">
+    <entry file="file://$PROJECT_DIR$/igi-mongo-node/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igi-mongo-node/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -1221,23 +1367,171 @@
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/igi-mongo-node/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/igi-mongo-node/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/igi-mongo-node/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/igi-mongo-node/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/igi-mongo-node/public/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igi-mongo-node/models/ninja.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/igi-mongo-node/routes/api.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/igi-mongo-node/public/styles.css">
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/java/com/igi/BookManager/BookManagerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdemyAngTut/http-start/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookManager/src/main/resources/static/restClient/src/app/shared-service/book.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/services/book-service.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/services/book-service.service.spec.ts">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/services/book.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/browserslist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookLoc_Ng_Node/ng-mat-client/src/app/components/books/book-list/book-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
