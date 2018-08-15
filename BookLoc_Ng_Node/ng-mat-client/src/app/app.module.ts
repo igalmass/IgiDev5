@@ -9,12 +9,16 @@ import { BookListComponent } from './components/books/book-list/book-list.compon
 import {BookService} from "./services/book.service";
 import { MainNavComponent } from './main-nav/main-nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
+import { AuthorListComponent } from './components/authors/author-list/author-list.component';
+import {RouterModule} from "@angular/router";
+import {routing} from "./app.routing";
 
 @NgModule({
   declarations: [
     AppComponent,
     BookListComponent,
-    MainNavComponent
+    MainNavComponent,
+    AuthorListComponent
   ],
   imports: [
     BrowserModule,
@@ -26,7 +30,8 @@ import { LayoutModule } from '@angular/cdk/layout';
     MatToolbarModule,
     MatSidenavModule,
     MatIconModule,
-    MatListModule
+    MatListModule,
+    routing
   ],
   providers: [ BookService ],
   bootstrap: [ AppComponent ]
