@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BookManager/BookManager.iml" filepath="$PROJECT_DIR$/BookManager/BookManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IgiDev5.iml" filepath="$PROJECT_DIR$/.idea/IgiDev5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/bookloc.iml" filepath="$PROJECT_DIR$/BookLoc/bookloc-spring-boot-server/bookloc/bookloc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IgiCrudTest/demo.iml" filepath="$PROJECT_DIR$/IgiCrudTest/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/igitests111/igitests111.iml" filepath="$PROJECT_DIR$/igitests111/igitests111.iml" />
     </modules>
   </component>
