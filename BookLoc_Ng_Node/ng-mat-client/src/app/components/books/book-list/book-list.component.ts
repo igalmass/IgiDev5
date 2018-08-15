@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {BookService} from "../../../services/book.service";
+import {LibraryService} from "../../../services/library.service";
 
 @Component({
   selector: 'app-book-list',
@@ -8,10 +8,13 @@ import {BookService} from "../../../services/book.service";
 })
 export class BookListComponent {
 
-  constructor(private bookService: BookService){
-     this.dataSource = this.bookService.books;
+  constructor(private libraryService: LibraryService){
+     this.dataSource = this.libraryService.books;
   }
   displayedColumns: string[] = ['isbn', 'title', 'pageCount'];
   dataSource = null;
 
+  refreshList() {
+    this.dataSource = this.libraryService.getBooksFromServer();
+  }
 }

@@ -1,5 +1,6 @@
 
 <h1>Book List</h1>
+<button mat-button (click)="refreshList()">Refresh list from server</button>
 
 <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
   <ng-container matColumnDef="isbn">

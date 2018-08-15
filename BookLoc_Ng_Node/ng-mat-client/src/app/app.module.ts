@@ -6,12 +6,11 @@ import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
 import {MatButtonModule, MatCheckboxModule, MatToolbarModule, MatSidenavModule, MatIconModule, MatListModule} from '@angular/material';
 import {MatTableModule} from '@angular/material/table';
 import { BookListComponent } from './components/books/book-list/book-list.component';
-import {BookService} from "./services/book.service";
 import { MainNavComponent } from './main-nav/main-nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
 import { AuthorListComponent } from './components/authors/author-list/author-list.component';
-import {RouterModule} from "@angular/router";
 import {routing} from "./app.routing";
+import {LibraryService} from "./services/library.service";
 
 @NgModule({
   declarations: [
@@ -33,7 +32,7 @@ import {routing} from "./app.routing";
     MatListModule,
     routing
   ],
-  providers: [ BookService ],
+  providers: [ LibraryService ],
   bootstrap: [ AppComponent ]
 })
 export class AppModule { }
