@@ -1,6 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
 import { AppComponent } from './app.component';
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
 import {MatButtonModule, MatCheckboxModule, MatToolbarModule, MatSidenavModule, MatIconModule, MatListModule} from '@angular/material';
@@ -11,6 +10,8 @@ import { LayoutModule } from '@angular/cdk/layout';
 import { AuthorListComponent } from './components/authors/author-list/author-list.component';
 import {routing} from "./app.routing";
 import {LibraryService} from "./services/library.service";
+import {HttpClientModule} from "@angular/common/http";
+import {DataStorageService} from "./services/data-storage.service";
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import {LibraryService} from "./services/library.service";
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
+    HttpClientModule,
     MatButtonModule,
     MatCheckboxModule,
     MatTableModule,
@@ -32,7 +34,7 @@ import {LibraryService} from "./services/library.service";
     MatListModule,
     routing
   ],
-  providers: [ LibraryService ],
+  providers: [ LibraryService, DataStorageService ],
   bootstrap: [ AppComponent ]
 })
 export class AppModule { }
