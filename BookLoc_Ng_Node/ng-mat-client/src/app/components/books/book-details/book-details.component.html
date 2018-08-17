@@ -1,4 +1,4 @@
-<form>
+<form (ngSubmit)="onSubmit()" #form="ngForm">
 
   <div *ngIf="isModelReady">
     <p>{{ isNewBook() ? "Add Book" : "Edit Book"}}</p>
@@ -10,7 +10,7 @@
       <td>
         <mat-form-field appearance="outline" name="id" class="example-full-width">
           <mat-label>Id</mat-label>
-          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.id" name="id">
+          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.id" name="id" disabled>
           <!--<mat-icon matSuffix>sentiment_very_satisfied</mat-icon>-->
           <!--<mat-hint>Hint</mat-hint>-->
         </mat-form-field>
@@ -21,7 +21,7 @@
       <td>
         <mat-form-field appearance="outline" name="isbn" class="example-full-width">
           <mat-label>Isbn</mat-label>
-          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.isbn" name="isbn">
+          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.isbn" name="isbn" required>
         </mat-form-field>
       </td>
     </tr>
@@ -29,7 +29,7 @@
       <td>
         <mat-form-field appearance="outline" name="title" class="example-full-width">
           <mat-label>Title</mat-label>
-          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.title" name="title">
+          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.title" name="title" required>
         </mat-form-field>
       </td>
     </tr>
@@ -37,14 +37,14 @@
       <td>
         <mat-form-field appearance="outline" name="pageCount" class="example-full-width">
           <mat-label>Page Count</mat-label>
-          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.pageCount" name="pageCount">
+          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.pageCount" name="pageCount" required>
         </mat-form-field>
       </td>
     </tr>
     <tr>
       <div class="saveCancelButtonContainer">
         <button mat-raised-button (click)="onBackToListClicked()">Back To List</button>
-        <button mat-raised-button>Save</button>
+        <button mat-raised-button type="submit" color="primary" [disabled]="!form.form.valid">Save</button>
         <button mat-raised-button>Cancel</button>
       </div>
     </tr>

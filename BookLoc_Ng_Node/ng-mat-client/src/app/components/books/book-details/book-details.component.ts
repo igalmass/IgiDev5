@@ -32,4 +32,9 @@ export class BookDetailsComponent implements OnInit {
       return true;
     }
   }
+
+  onSubmit(){
+    debugger;
+    console.log('submitting ....');
+  }
 }
