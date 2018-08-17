@@ -1,11 +1,9 @@
-<p>
-  book-details works!
-</p>
-
 <form>
-  <p>
 
-  </p>
+  <div *ngIf="isModelReady">
+    <p>{{ isNewBook() ? "Add Book" : "Edit Book"}}</p>
+  </div>
+
 
   <table width="100%">
     <tr>
@@ -32,6 +30,14 @@
         <mat-form-field appearance="outline" name="title" class="example-full-width">
           <mat-label>Title</mat-label>
           <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.title" name="title">
+        </mat-form-field>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <mat-form-field appearance="outline" name="pageCount" class="example-full-width">
+          <mat-label>Page Count</mat-label>
+          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.pageCount" name="pageCount">
         </mat-form-field>
       </td>
     </tr>

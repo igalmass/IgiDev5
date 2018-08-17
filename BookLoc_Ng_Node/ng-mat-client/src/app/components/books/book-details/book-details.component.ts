@@ -11,18 +11,25 @@ export class BookDetailsComponent implements OnInit {
 
 
   constructor(private activatedRoute: ActivatedRoute, private router: Router) { }
-  bookInfo: BookInfo = {
-    id: "1",
-    isbn: "2",
-    title: "titoo",
-    pageCount: 4444
-  };
+  bookInfo: BookInfo = null;
+  isModelReady = false;
 
   ngOnInit() {
-    let a = 3;
+    this.activatedRoute.data.subscribe((data: {bookInfo: BookInfo}) => {
+      this.bookInfo = data.bookInfo;
+      this.isModelReady = true;
+    });
   }
 
   onBackToListClicked() {
     this.router.navigate(['../'], {relativeTo: this.activatedRoute})
+  }
+
+  isNewBook(){
+    if (this.bookInfo.id){
+      return false;
+    } else {
+      return true;
+    }
   }
 }

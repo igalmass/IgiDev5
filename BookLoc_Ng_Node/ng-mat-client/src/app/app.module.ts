@@ -24,6 +24,7 @@ import { DataStorageService } from "./services/data-storage.service";
 import { BookActionMenuComponent } from './components/books/book-action-menu/book-action-menu.component';
 import { BookDetailsComponent } from './components/books/book-details/book-details.component';
 import {FormsModule, ReactiveFormsModule} from "@angular/forms";
+import {BookResolver} from "./components/books/book-resolver/book.resolver";
 
 @NgModule({
   declarations: [
@@ -53,7 +54,7 @@ import {FormsModule, ReactiveFormsModule} from "@angular/forms";
     ReactiveFormsModule,
     routing
   ],
-  providers: [ LibraryService, DataStorageService ],
+  providers: [ LibraryService, DataStorageService, BookResolver ],
   bootstrap: [ AppComponent ]
 })
 export class AppModule { }
