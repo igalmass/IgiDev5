@@ -25,8 +25,8 @@
       </button>
       <span>ng-mat-client</span>
       <span class="spacer"></span>
-      <a href="#">Authors</a>
-      <a href="#">Books</a>
+      <a [routerLink]="['/books']">Books</a>
+      <a [routerLink]="['/authors']">Authors</a>
     </mat-toolbar>
     <!-- Add Content Here -->
     <ng-content></ng-content>

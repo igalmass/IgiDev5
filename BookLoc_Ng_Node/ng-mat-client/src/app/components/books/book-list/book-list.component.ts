@@ -11,10 +11,11 @@ import {DataStorageService} from "../../../services/data-storage.service";
 })
 export class BookListComponent implements OnInit, OnDestroy {
   private subscription: Subscription;
-  displayedColumns: string[] = ['isbn', 'title', 'pageCount'];
+  displayedColumns: string[] = ['id', 'isbn', 'title', 'pageCount', 'actions'];
   dataSource = null;
 
-  constructor(private libraryService: LibraryService, private dataStorageService: DataStorageService){
+  constructor(private libraryService: LibraryService,
+              private dataStorageService: DataStorageService){
   }
 
   refreshList() {
@@ -30,5 +31,9 @@ export class BookListComponent implements OnInit, OnDestroy {
       if (this.subscription){
         this.subscription.unsubscribe();
       }
+  }
+
+  clearList() {
+    this.dataSource = [];
   }
 }

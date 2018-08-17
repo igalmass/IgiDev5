@@ -15,8 +15,8 @@ export class LibraryService {
   }
 
   allTheBooks: BookInfo[] = [
-    {isbn: "12", title: 'The Three Musketeer', pageCount: 338},
-    {isbn: "13", title: 'The Four Musketeer', pageCount: 415}
+    {id: '1', isbn: "12", title: 'The Three Musketeer', pageCount: 338},
+    {id: '2', isbn: "13", title: 'The Four Musketeer', pageCount: 415}
   ];
 
   setAllBooks(books: BookInfo[]) {

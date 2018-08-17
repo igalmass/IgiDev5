@@ -2,23 +2,35 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
-import {MatButtonModule, MatCheckboxModule, MatToolbarModule, MatSidenavModule, MatIconModule, MatListModule} from '@angular/material';
+import {
+  MatButtonModule,
+  MatCheckboxModule,
+  MatToolbarModule,
+  MatSidenavModule,
+  MatIconModule,
+  MatListModule,
+  MatMenuModule, MatFormFieldModule
+} from '@angular/material';
 import {MatTableModule} from '@angular/material/table';
 import { BookListComponent } from './components/books/book-list/book-list.component';
 import { MainNavComponent } from './main-nav/main-nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
 import { AuthorListComponent } from './components/authors/author-list/author-list.component';
-import {routing} from "./app.routing";
+import { routing } from "./app.routing";
 import {LibraryService} from "./services/library.service";
 import {HttpClientModule} from "@angular/common/http";
 import {DataStorageService} from "./services/data-storage.service";
+import { BookActionMenuComponent } from './components/books/book-action-menu/book-action-menu.component';
+import { BookDetailsComponent } from './components/books/book-details/book-details.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BookListComponent,
     MainNavComponent,
-    AuthorListComponent
+    AuthorListComponent,
+    BookActionMenuComponent,
+    BookDetailsComponent
   ],
   imports: [
     BrowserModule,
@@ -32,6 +44,8 @@ import {DataStorageService} from "./services/data-storage.service";
     MatSidenavModule,
     MatIconModule,
     MatListModule,
+    MatMenuModule,
+    MatFormFieldModule,
     routing
   ],
   providers: [ LibraryService, DataStorageService ],
