@@ -4,11 +4,43 @@
 
 <form>
   <p>
-    <mat-form-field appearance="outline">
-      <mat-label>Outline form field</mat-label>
-      <input matInput placeholder="Placeholder">
-      <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
-      <mat-hint>Hint</mat-hint>
-    </mat-form-field>
+
   </p>
+
+  <table width="100%">
+    <tr>
+      <td>
+        <mat-form-field appearance="outline" name="id" class="example-full-width">
+          <mat-label>Id</mat-label>
+          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.id" name="id">
+          <!--<mat-icon matSuffix>sentiment_very_satisfied</mat-icon>-->
+          <!--<mat-hint>Hint</mat-hint>-->
+        </mat-form-field>
+      </td>
+
+    </tr>
+    <tr>
+      <td>
+        <mat-form-field appearance="outline" name="isbn" class="example-full-width">
+          <mat-label>Isbn</mat-label>
+          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.isbn" name="isbn">
+        </mat-form-field>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <mat-form-field appearance="outline" name="title" class="example-full-width">
+          <mat-label>Title</mat-label>
+          <input matInput placeholder="Placeholder" [(ngModel)]="bookInfo.title" name="title">
+        </mat-form-field>
+      </td>
+    </tr>
+    <tr>
+      <div class="saveCancelButtonContainer">
+        <button mat-raised-button (click)="onBackToListClicked()">Back To List</button>
+        <button mat-raised-button>Save</button>
+        <button mat-raised-button>Cancel</button>
+      </div>
+    </tr>
+  </table>
 </form>
