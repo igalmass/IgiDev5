@@ -1,7 +1,8 @@
 <h1>Book List</h1>
-<div>
+<div style="display: flex; align-items: center; justify-content: center">
   <button mat-raised-button (click)="refreshList()">Refresh list from server</button>
   <button mat-raised-button (click)="clearList()">Clear the list</button>
+  <app-books-action-menu></app-books-action-menu>
 </div>
 
 <div class="example-container mat-elevation-z8">

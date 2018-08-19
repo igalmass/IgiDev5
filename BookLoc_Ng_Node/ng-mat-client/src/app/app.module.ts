@@ -25,6 +25,7 @@ import { BookActionMenuComponent } from './components/books/book-action-menu/boo
 import { BookDetailsComponent } from './components/books/book-details/book-details.component';
 import {FormsModule, ReactiveFormsModule} from "@angular/forms";
 import {BookResolver} from "./components/books/book-resolver/book.resolver";
+import { BooksActionMenuComponent } from './components/books/books-action-menu/books-action-menu.component';
 
 @NgModule({
   declarations: [
@@ -33,6 +34,7 @@ import {BookResolver} from "./components/books/book-resolver/book.resolver";
     MainNavComponent,
     AuthorListComponent,
     BookActionMenuComponent,
+    BooksActionMenuComponent,
     BookDetailsComponent
   ],
   imports: [
