@@ -1,5 +1,7 @@
 const commandLineArgs = require('command-line-args');
 const express = require('express');
+const bodyParser = require('body-parser');
+const mongoose = require('mongoose');
 
 // server.js
 const optionDefinitions = [
@@ -14,7 +16,12 @@ const options = commandLineArgs(optionDefinitions);
 
 console.log(options);
 
+mongoose.connect('mongodb://localhost:27017/myBooks', {useNewUrlParser: true});
+mongoose.Promise = global.Promise;
+
 const app = express();
+
+
 
 app.use(function (req, res, next) {
 
@@ -37,8 +44,17 @@ app.use(function (req, res, next) {
 
 //app.use(cors({origin: 'http://localhost:4200'}));
 
+app.use(bodyParser.json());
+
 app.get('/', (req, res) => res.send('Hello World!'));
 
 app.use('/api', require('./routes/books-router'));
+
+// error handling
+app.use(function(err, req, res, next){
+    console.log(err);
+    debugger;
+    res.status(422).send({error: err.message});
+});
 
 app.listen(3000, () => console.log(`Example app listening on port ${options.serverPort} !`))

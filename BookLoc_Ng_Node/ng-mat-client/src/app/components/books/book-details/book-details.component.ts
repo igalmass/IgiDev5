@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {BookInfo} from "../../../models/book-info.model";
 import {ActivatedRoute, Router} from "@angular/router";
+import {DataStorageService} from "../../../services/data-storage.service";
 
 @Component({
   selector: 'app-book-details',
@@ -10,7 +11,7 @@ import {ActivatedRoute, Router} from "@angular/router";
 export class BookDetailsComponent implements OnInit {
 
 
-  constructor(private activatedRoute: ActivatedRoute, private router: Router) { }
+  constructor(private activatedRoute: ActivatedRoute, private router: Router, private dataStorageService: DataStorageService) { }
   bookInfo: BookInfo = null;
   isModelReady = false;
 
@@ -36,5 +37,6 @@ export class BookDetailsComponent implements OnInit {
   onSubmit(){
     debugger;
     console.log('submitting ....');
+    this.dataStorageService.saveBook_Mongo(this.bookInfo);
   }
 }

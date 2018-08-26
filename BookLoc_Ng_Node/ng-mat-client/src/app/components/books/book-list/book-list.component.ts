@@ -18,13 +18,15 @@ export class BookListComponent implements OnInit, OnDestroy {
               private dataStorageService: DataStorageService){
   }
 
-  refreshList() {
-    this.dataStorageService.getBooksFromServer();
+  refreshFakedList() {
+    this.dataStorageService.getBooksFromServer_Faked();
   }
 
   ngOnInit(): void {
     this.dataSource = this.libraryService.allTheBooks;
-    this.subscription = this.libraryService.allTheBookListChanged.subscribe((books: BookInfo[]) => this.dataSource = this.libraryService.allTheBooks);
+    this.subscription = this.libraryService.allTheBookListChanged.subscribe(
+      (books: BookInfo[]) =>
+        this.dataSource = this.libraryService.allTheBooks);
   }
 
   ngOnDestroy(): void {
@@ -35,5 +37,9 @@ export class BookListComponent implements OnInit, OnDestroy {
 
   clearList() {
     this.dataSource = [];
+  }
+
+  refreshListFromMongo() {
+    this.dataStorageService.getBooksFromServer_Mongo();
   }
 }

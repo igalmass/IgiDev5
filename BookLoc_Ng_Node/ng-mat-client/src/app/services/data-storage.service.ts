@@ -13,7 +13,25 @@ export class DataStorageService{
 
   readonly baseUrl = "http://localhost:3000/api";
 
-  getBooksFromServer(){
+  getBooksFromServer_Faked(){
+    let url = this.baseUrl + "/books/faked";
+
+    return this.httpClient.get<BookInfo[]>(url).
+      pipe(map((response: BookInfo[]) => {
+        console.log(response);
+        return response;
+      })).
+      subscribe(
+        (response: BookInfo[] ) => {
+          this.libraryService.setAllBooks(response);
+        },
+        (error: string) => {
+          console.log(error);
+        }
+      )
+  }
+
+  getBooksFromServer_Mongo(){
     let url = this.baseUrl + "/books";
 
     return this.httpClient.get<BookInfo[]>(url).
@@ -30,4 +48,20 @@ export class DataStorageService{
       }
     )
   }
+
+  saveBook_Mongo(bookInfo: BookInfo) {
+    let url = this.baseUrl + "/books";
+
+    this.httpClient.post<BookInfo>(url, bookInfo).subscribe(
+      (bookInfo: BookInfo) => {
+        console.log("Succeeded to save. New Book: ");
+        console.log(bookInfo);
+      },
+      (error: any) =>
+      {
+        console.log("Error: " + error)
+      })
+  }
+
+
 }
